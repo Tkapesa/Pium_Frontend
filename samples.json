@@ -1,0 +1,1819 @@
+{
+  "ca82e709-71b2-44a8-b03f-966b7da97021": {
+    "message": "Upload Successful",
+    "filename": "13 status epilepticus_230314_114201.pdf",
+    "exec_time": "39 slides summarized in 24.3s",
+    "Content": {
+      "text": [
+        {
+          "header": "Seizure Classification (ILAE 2017)",
+          "points": [
+            "Focal aware seizures (previously partial seizures): Person is conscious, aware, and remembers the seizure.",
+            "Focal impaired awareness seizures (previously complex partial seizures): Consciousness is affected, person may be confused, hear but not fully understand or respond.",
+            "Generalized onset seizures: Affect both sides of the brain at once, happen without warning.",
+            "Atonic seizures (drop attacks): Muscles suddenly relax, person becomes floppy and often falls forwards.",
+            "Tonic seizure: Muscles suddenly become stiff, person often falls backwards.",
+            "Myoclonic seizures: Characterized by muscle jerks (not always due to epilepsy).",
+            "Absence seizures (previously petit-mal):",
+            "Typical absences: Person becomes blank and unresponsive for a few seconds.",
+            "Atypical absences: Similar to typical absences but start and end more slowly and last longer.",
+            "((Placeholder-2-1))",
+            "((Placeholder-3-1))",
+            "((Placeholder-4-1))"
+          ]
+        },
+        {
+          "header": "Status Epilepticus (SE) Definition",
+          "points": [
+            "A condition characterized by an epileptic seizure that is sufficiently prolonged or repeated at sufficiently brief intervals to produce an unvarying and enduring epileptic condition.",
+            "SE results from failure of seizure termination mechanisms or initiation of mechanisms leading to abnormally prolonged seizures (after time point t1).",
+            "It can have long-term consequences (after time point t2), including neuronal death, injury, and alteration of neuronal networks, depending on seizure type and duration."
+          ]
+        },
+        {
+          "header": "Status Epilepticus Classification",
+          "points": [
+            "Convulsive SE (tonic-clonic SE): Generalized convulsive, focal onset evolving into bilateral convulsive, or unknown whether focal or generalized.",
+            "Myoclonic SE: Prominent epileptic myoclonic jerks, with or without coma.",
+            "Focal motor SE: Repeated focal motor seizures (Jacksonian), Epilepsia partialis continua (EPC), Adversive status, Oculoclonic status, Ictal paresis (focal inhibitory SE).",
+            "Tonic SE",
+            "Hyperkinetic SE",
+            "NCSE with coma (including subtle SE)",
+            "NCSE without coma",
+            "Generalized convulsive SE",
+            "Generalized atonic SE",
+            "Generalized myoclonic SE",
+            "Generalized clonic SE",
+            "Generalized tonic SE",
+            "Absence status epilepticus (ASE)",
+            "Atypical absence status epilepticus (AASE)",
+            "Electrical status epilepticus during slow wave sleep (ESES)",
+            "Secondarily generalized convulsive status epilepticus (SGCSE)",
+            "Simple partial status epilepticus (SPSE)",
+            "Complex partial status epilepticus (CPSE)",
+            "Focal status epilepticus",
+            "Status epilepticus old classification",
+            "Generalized status epilepticus",
+            "Nonconvulsive status epilepticus (NCSE) with prominent motor symptoms",
+            "Nonconvulsive status epilepticus (NCSE) without prominent motor symptoms",
+            "Convulsive SE designates episodes of excessive abnormal muscle contractions, usually bilateral, which may be sustained or interrupted.",
+            "The two main taxonomic criteria are the presence or absence of prominent motor symptoms and the degree of impaired consciousness."
+          ]
+        },
+        {
+          "header": "Nonconvulsive Status Epilepticus (NCSE)",
+          "points": [
+            "Characterized by continuous or recurrent seizure activity and diverse clinical symptoms (alterations of mental state, abnormal behavior, perception disturbances, consciousness impairment) accompanied by generalized or focal epileptiform activity on EEG, usually lasting more than 30 minutes (some propose >1 hour).",
+            "Constitutes about 25–50% of all SE cases.",
+            "Traditionally divided into generalized NCSE and focal NCSE.",
+            "Diagnosis criteria include a period of behavioral change from baseline, EEG evidence of epileptic activity, and a response to antiepileptic drugs (IV benzodiazepines).",
+            "Diagnosis often relies on EEG findings, especially in comatose patients.",
+            "((Placeholder-16-1))"
+          ]
+        },
+        {
+          "header": "Most Common SE Types and Urgency",
+          "points": [
+            "All types of epileptic seizures can evolve to SE, but the most commonly seen are GCSE, focal seizures without loss of consciousness (simple partial SE), myoclonic SE (MSE), and NCSE.",
+            "GCSE has the highest mortality and morbidity among all SE types and requires urgent and timely treatment."
+          ]
+        },
+        {
+          "header": "Status Epilepticus Time Points",
+          "points": [
+            "Two operational time dimensions are defined:",
+            "t1: The time point at which a seizure is likely to be prolonged, leading to continuous seizure activity.",
+            "t2: The time of ongoing seizure activity beyond which there is a risk of long-term consequences (neuronal injury, death, network alteration, functional deficits).",
+            "Time points may vary between SE forms.",
+            "For convulsive (tonic-clonic) SE, time points are based on incomplete animal experiments and clinical research.",
+            "The division into two time points has clinical implications: t1 determines when treatment should be considered or started, and t2 determines treatment aggressiveness to prevent long-term consequences.",
+            "Tonic-clonic SE: t1 = 5 min, t2 = 30 min.",
+            "Focal SE with impaired consciousness: t1 = 10 min, t2 > 60 min.",
+            "Absence status epilepticus: t1 = 10–15 min, t2 = Unknown.",
+            "((Placeholder-17-1))"
+          ]
+        },
+        {
+          "header": "Status Epilepticus Etiology",
+          "points": [
+            "Common causes include antiepileptic dose decrease, changes in antiepileptic treatment, CNS infection (encephalitis, meningitis), trauma, cerebrovascular accident, CNS tumor, anoxia/hypoxia, metabolic abnormalities, and alcohol/drug withdrawal.",
+            "Approximately half of SE cases occur without a prior epilepsy history.",
+            "Known (symptomatic) causes can be acute (stroke, intoxication, CNS infection, trauma, metabolic), remote (posttraumatic, postencephalitic, poststroke), or progressive (brain tumor, dementia).",
+            "Unknown (cryptogenic) causes also exist.",
+            "((Placeholder-19-1))"
+          ]
+        },
+        {
+          "header": "Status Epilepticus Diagnosis",
+          "points": [
+            "GCSE is a clinical diagnosis.",
+            "NCSE diagnosis is clinical and EEG-based, requiring EEG confirmation and response to IV antiepileptic treatment.",
+            "Clinical signs of NCSE include changes in consciousness and behavior (confusion, bizarre behaviors, altered attitudes, memory loss, mood changes).",
+            "EEG findings include typical ictal patterns or continuous discharges.",
+            "Acute confusion can have other causes besides NCSE (metabolic derangement, anoxia, hypoxia, drug side effect, structural brain injury, sepsis).",
+            "Diagnosing NCSE in intubated, mechanically ventilated comatose patients is difficult.",
+            "If clinical suspicion exists, EEG should be recorded, especially with subtle epileptic activity like nystagmoid eye movements or facial twitches.",
+            "((Placeholder-20-1))",
+            "((Placeholder-21-1))",
+            "((Placeholder-22-1))",
+            "((Placeholder-23-1))",
+            "((Placeholder-25-1))"
+          ]
+        },
+        {
+          "header": "Status Epilepticus Treatment Aims",
+          "points": [
+            "Support and monitor vital functions (airway, blood pressure, heart rate).",
+            "Check blood glucose level.",
+            "Establish IV line access (at least two lines).",
+            "Take blood samples simultaneously.",
+            "Initiate antiepileptic treatment to control convulsions.",
+            "Prevent recurrence of convulsions.",
+            "Diagnose etiological underlying causes of SE (blood tests, urine analysis, brain imaging).",
+            "Starting treatment earlier results in control of 80% of SE cases.",
+            "After ≥2 hours, 30-40% of cases become refractory, and mortality increases dramatically."
+          ]
+        },
+        {
+          "header": "Interictal Epileptiform Discharges",
+          "points": [
+            "((Placeholder-26-1))",
+            "((Placeholder-27-1))",
+            "((Placeholder-29-1))",
+            "((Placeholder-31-1))",
+            "((Placeholder-32-1))",
+            "((Placeholder-33-1))",
+            "((Placeholder-36-1))",
+            "((Placeholder-37-1))"
+          ]
+        },
+        {
+          "header": "Ictal Epileptiform Discharges",
+          "points": [
+            "((Placeholder-38-1))",
+            "((Placeholder-39-1))"
+          ]
+        },
+        {
+          "header": "Key Concepts",
+          "points": [
+            "Seizure Classification (ILAE 2017)",
+            "Status Epilepticus (SE) Definition",
+            "Status Epilepticus Classification",
+            "Nonconvulsive Status Epilepticus (NCSE)",
+            "Most Common SE Types and Urgency",
+            "Status Epilepticus Time Points",
+            "Status Epilepticus Etiology",
+            "Status Epilepticus Diagnosis",
+            "Status Epilepticus Treatment Aims",
+            "Interictal Epileptiform Discharges",
+            "Ictal Epileptiform Discharges"
+          ]
+        },
+        [
+          {
+            "header": "Terminology",
+            "points": [
+              "[TYPE:SeizureType]Focal aware seizures[/TYPE]: Seizures where the person remains conscious and aware, able to remember the event.",
+              "[TYPE:SeizureType]Focal impaired awareness seizures[/TYPE]: Seizures affecting consciousness, leading to confusion or difficulty understanding and responding.",
+              "[TYPE:SeizureType]Generalized onset seizures[/TYPE]: Seizures that affect both hemispheres of the brain simultaneously and occur without warning.",
+              "[TYPE:SeizureType]Atonic seizures[/TYPE]: Characterized by a sudden loss of muscle tone, causing the person to become limp and often fall.",
+              "[TYPE:SeizureType]Tonic seizure[/TYPE]: Seizures involving sudden muscle stiffening, often causing the person to fall backward.",
+              "[TYPE:SeizureType]Myoclonic seizures[/TYPE]: Seizures marked by brief, involuntary muscle jerks.",
+              "[TYPE:SeizureType]Absence seizures[/TYPE]: Seizures characterized by a brief lapse in awareness, where the person appears to stare blankly.",
+              "[TYPE:Condition]Status Epilepticus (SE)[/TYPE]: A condition where a seizure is prolonged or repeated, leading to a persistent epileptic state.",
+              "[TYPE:Process]Seizure termination mechanisms[/TYPE]: The biological processes that normally stop a seizure.",
+              "[TYPE:Consequence]Neuronal death[/TYPE]: The irreversible loss of nerve cells, a potential long-term consequence of prolonged seizures.",
+              "[TYPE:Classification]Convulsive SE[/TYPE]: Status epilepticus involving generalized convulsive seizures or focal seizures that spread to both sides of the brain.",
+              "[TYPE:Classification]Myoclonic SE[/TYPE]: Status epilepticus characterized by prominent, repeated myoclonic jerks.",
+              "[TYPE:Classification]Focal motor SE[/TYPE]: Status epilepticus involving repeated focal motor seizures, such as Jacksonian seizures.",
+              "[TYPE:Classification]Nonconvulsive Status Epilepticus (NCSE)[/TYPE]: Status epilepticus without prominent convulsive motor activity, often presenting with altered mental state or behavior.",
+              "[TYPE:EEGPattern]Epileptiform activity[/TYPE]: Abnormal electrical patterns on an EEG that are characteristic of epilepsy.",
+              "[TYPE:TimePoint]t1[/TYPE]: The defined time point at which a seizure is considered likely to become prolonged.",
+              "[TYPE:TimePoint]t2[/TYPE]: The defined time point beyond which there is a risk of long-term consequences due to ongoing seizure activity.",
+              "[TYPE:Etiology]Symptomatic causes[/TYPE]: Causes of SE that are linked to a known underlying brain abnormality or insult.",
+              "[TYPE:Etiology]Cryptogenic causes[/TYPE]: Causes of SE that are unknown or cannot be identified.",
+              "[TYPE:Diagnosis]Clinical diagnosis[/TYPE]: Diagnosis based on observable signs and symptoms without the need for specific tests."
+            ]
+          }
+        ]
+      ]
+    }
+  },
+  "b424652e-1ce8-47ae-9f27-989fcf4b3054": {
+    "message": "Upload Successful",
+    "filename": "14 sleep _230311_152150.pdf",
+    "exec_time": "42 slides summarized in 29.8s",
+    "Content": {
+      "text": [
+        {
+          "header": "Definition of Sleep",
+          "points": [
+            "Sleep is a spontaneously recurring state of body and mind characterized by closed eyes, relaxed postural muscles, reduced interaction with the outside world, and decreased body movements.",
+            "Sleep is spontaneously reversible, differentiating it from coma.",
+            "Sleep has species-specific timing: nocturnal (active during the night) or diurnal (active during the day).",
+            "Sleep does not have a homogenous structure, with macrostructure divided into REM and NREM sleep.",
+            "REM and NREM sleep stages differ neurochemically, electrophysiologically, and neurobiologically.",
+            "NREM sleep is further divided into three substages: N1, N2, and N3.",
+            "* REM: “rapid eye movement”"
+          ]
+        },
+        {
+          "header": "Sleep Architecture and Macrostructure",
+          "points": [
+            "Sleep stages include NREM stages (N1, N2, N3) and REM Stage (R).",
+            "Normal sleep has cyclic features where NREM and REM sleep stages follow each other regularly.",
+            "A healthy adult typically experiences 4-6 sleep cycles per night, with varying durations of NREM/REM and NREM stages within each cycle.",
+            "((Placeholder-4-1))"
+          ]
+        },
+        {
+          "header": "Sleep Architecture: Hypnogram",
+          "points": [
+            "A hypnogram graphically demonstrates the variation of sleep stages during the night.",
+            "Percentages of sleep stages in a healthy adult:",
+            "Stage 1 NREM sleep: 2-5%",
+            "Stage 2 NREM sleep: 45-55%",
+            "Stage 3 NREM (deep) sleep: 15-20%",
+            "REM sleep: 20-25%",
+            "((Placeholder-5-1))"
+          ]
+        },
+        {
+          "header": "Sleep Architecture: Sleep Onset",
+          "points": [
+            "Sleep normally begins with NREM sleep; REM-onset sleep (within the first 15 minutes) is considered pathological.",
+            "After going to bed, sleep typically starts within 15-20 minutes with stage N1, a short transitional period.",
+            "Stage N2 usually begins within minutes, followed by deepening sleep to stage N3.",
+            "The first NREM sleep cycle evolves into REM sleep approximately 90-110 minutes after sleep onset.",
+            "The first half of the night is mainly constituted by deep sleep, while the second half features longer REM periods and decreased deep sleep percentages.",
+            "((Placeholder-6-1))"
+          ]
+        },
+        {
+          "header": "REM Sleep Characteristics",
+          "points": [
+            "Rapid eye movements (REM) were discovered by Nathaniel Kleitman and Eugene Aserinsky in 1953 and were first associated with dreams.",
+            "Physiological changes during REM sleep include:",
+            "Rapid eye movements (saccadic, phasic, discrete, not associated with dream content).",
+            "Muscle atonia (continuous paralysis of skeletal muscles, except diaphragm and external eye muscles).",
+            "Desynchronized EEG activity (low amplitude, mixed frequency rapid activity resembling wakeful brain activity; also called paradoxical sleep).",
+            "Loss of thermoregulation (body temperature regulated by environmental temperature).",
+            "Cardiorespiratory irregularity (irregular heartbeats and respiration).",
+            "Nocturnal penile tumescence (NPT) (penile erection and clitoral engorgement)."
+          ]
+        },
+        {
+          "header": "Neurobiology of Wakefulness and Sleep",
+          "points": [
+            "Wakefulness and sleep are regulated by different brain regions and neurotransmitters.",
+            "Wake-related brain regions activating the cerebral cortex include the thalamus, basal forebrain, brainstem monoaminergic nuclei, and posterior hypothalamus.",
+            "NREM and REM sleep are regulated by different brain regions, including the ventrolateral preoptic (VLPO) neurons of the anterior hypothalamus and cholinergic neurons in the lateral dorsal tegmental/pedunculopontine tegmental nuclei.",
+            "((Placeholder-10-1)) ((Placeholder-12-1))"
+          ]
+        },
+        {
+          "header": "Sleep-Wake Cycle Regulation",
+          "points": [
+            "The timing and duration of sleep, and timing of awakening, are regulated by the circadian clock and sleep homeostatic mechanisms.",
+            "The two-process model of sleep regulation incorporates Process S (homeostatic) and Process C (circadian).",
+            "Process S (homeostatic): Describes sleep pressure that increases during wakefulness and declines during sleep. Extended wakefulness leads to accumulated sleep pressure.",
+            "Process C (circadian): An internal clock regulating the organization of sleep and wake into specific phases of the day, synchronized by environmental cues like light, temperature, stress, exercise, food, and social interactions."
+          ]
+        },
+        {
+          "header": "Homeostatic Process (Process S)",
+          "points": [
+            "Wake-dependent homeostatic substances accumulate with wakefulness and promote sleep when sensed by a homeostatic system.",
+            "Suggested homeostatic substances include adenosine, cytokines (interleukin-1, tumor necrosis factor), prostaglandin D2, and nitric oxide.",
+            "Process S increases with prior waking duration, decreases during sleep, and shows predictable changes with naps."
+          ]
+        },
+        {
+          "header": "Circadian Process (Process C)",
+          "points": [
+            "Circadian-controlled processes are driven by an autonomously rhythmic system synchronized with environmental changes (e.g., light/dark cycle).",
+            "In mammals, the suprachiasmatic nucleus (SCN) of the hypothalamus orchestrates circadian timing of sleep/wake behavior, metabolism, and physiology.",
+            "The SCN projects mainly to other hypothalamic nuclei.",
+            "((Placeholder-15-1)) ((Placeholder-16-1))"
+          ]
+        },
+        {
+          "header": "Sleep Tests",
+          "points": [
+            "Clinical sleep laboratories use various methods to investigate sleep and diagnose sleep-related disorders:",
+            "Full-night polysomnography (PSG)",
+            "Multiple sleep latency test (MSLT)",
+            "Maintenance of wakefulness test (MWT)",
+            "Extended electroencephalography (EEG) and PSG montage",
+            "Actigraphy"
+          ]
+        },
+        {
+          "header": "Polysomnography (PSG) Recorded Parameters",
+          "points": [
+            "Electroencephalogram (EEG): Brain electrical activity.",
+            "Electro-oculogram (EOG): Ocular movements.",
+            "Chin electromyogram (EMG): Muscle tonus.",
+            "Oronasal airflow: Oral/nasal airflow.",
+            "Respiratory effort (thoracic and abdominal): Respiratory movements.",
+            "Pulse oximeter: Oxygen saturation.",
+            "ECG: Cardiac electrical activity.",
+            "Leg electromyogram (EMG): Muscle tonus (for leg movement).",
+            "Body position.",
+            "Laryngeal microphone: Snoring.",
+            "Video camera: Body movements.",
+            "((Placeholder-18-1)) ((Placeholder-20-1))"
+          ]
+        },
+        {
+          "header": "International Sleep Disorder Classification-3 Categories",
+          "points": [
+            "1. Insomnia",
+            "2. Sleep-related breathing disorders",
+            "3. Central disorders of hypersomnolence",
+            "4. Circadian rhythm sleep-wake disorders",
+            "5. Parasomnias",
+            "6. Sleep-related movement disorders",
+            "7. Other sleep disorders"
+          ]
+        },
+        {
+          "header": "Insomnia",
+          "points": [
+            "Includes Chronic insomnia disorder, Short-term insomnia disorder, Other insomnia disorder, and Isolated symptoms/normal variants (e.g., excessive time in bed, short sleeper).",
+            "Definition: Persistent difficulty with sleep initiation, duration, consolidation, or quality, despite adequate opportunity, leading to daytime impairment.",
+            "Daytime symptoms: Fatigue, malaise, attention/concentration/memory impairment, impaired performance, daytime sleepiness, mood disturbance/irritability, behavioral problems, reduced motivation, proneness for errors/accidents, concerns about sleep quality.",
+            "Chronic insomnia: Sleep disturbance and daytime symptoms occur at least three times per week for at least three months."
+          ]
+        },
+        {
+          "header": "Insomnia Treatment",
+          "points": [
+            "Recommended first-line therapies are non-pharmacologic: stimulus control, relaxation training, sleep restriction.",
+            "Pharmacologic treatments include:",
+            "Benzodiazepines",
+            "Nonbenzodiazepine hypnotics",
+            "Antidepressants (e.g., Doxepin, Trazodone, Mirtazepine, Amitriptyline, Nortriptyline)",
+            "Antihistamines",
+            "Melatonin and Melatonin receptor agonists",
+            "Orexin receptor antagonists",
+            "Antiepileptics (e.g., Gabapentin, Pregabalin)",
+            "Antipsychotics"
+          ]
+        },
+        {
+          "header": "Sleep-Related Breathing Disorders",
+          "points": [
+            "Includes Obstructive sleep apnea syndrome, Central sleep apnea syndromes, Sleep-related hypoventilation disorders, Sleep-related hypoxemia disorders, and Isolated symptoms/normal variants (e.g., snoring, catathrenia).",
+            "((Placeholder-24-1))"
+          ]
+        },
+        {
+          "header": "Obstructive Sleep Apnea Syndrome (OSAS)",
+          "points": [
+            "Characterized by repetitive episodes of complete (apnea) or partial (hypopnea) upper airway obstruction during sleep.",
+            "Events lead to reduced blood oxygen saturation and are terminated by brief arousals.",
+            "Apneic and hypopneic events last a minimum of 10 seconds.",
+            "Predisposing factors: Male gender, older age, excess body weight, increased neck circumference, head/neck abnormalities, endocrine disorders (acromegaly, hypothyroidism), Down syndrome.",
+            "Complications: Systemic hypertension, coronary artery disorders, congestive heart failure, atrial fibrillation, stroke, type 2 DM, accidents, cognitive dysfunction.",
+            "Diagnosis: Polysomnography.",
+            "Treatment: Non-invasive mechanical ventilation (CPAP, BiPAP, APAP), behavioral therapy, oral appliances, surgery, weight loss.",
+            "((Placeholder-26-1))"
+          ]
+        },
+        {
+          "header": "Central Disorders of Hypersomnolence",
+          "points": [
+            "Includes Narcolepsy type 1, Narcolepsy type 2, Idiopathic hypersomnia, Kleine-Levin syndrome, Hypersomnia due to medical disorder, medication/substance, or psychiatric disease, Insufficient sleep syndrome, and Isolated symptoms/normal variants (e.g., long sleeper).",
+            "Hypersomnolence: Symptom of excessive sleepiness, defined as inability to stay awake and alert during major waking episodes.",
+            "Hypersomnia: Refers to specific disorders like idiopathic hypersomnia.",
+            "Diagnosis: Polysomnography (PSG), Multiple sleep latency test (MSLT - mean sleep latency < 8 minutes indicates sleepiness, presence of multiple SOREMPs is specific for narcolepsy), 24-hour continuous sleep monitoring, one-week actigraphy with sleep log, Maintenance of wakefulness test (MWT - for assessing treatment response, not diagnosis).",
+            "((Placeholder-27-1))"
+          ]
+        },
+        {
+          "header": "Narcolepsy Type 1",
+          "points": [
+            "Criteria: Daily periods of irrepressible need to sleep or daytime lapses into sleep for at least three months, AND Cataplexy, AND (Mean sleep latency ≤ 8 minutes and ≥2 SOREMPs on MSLT OR low CSF hypocretin-1 concentration).",
+            "Cataplexy: Episodes of sudden loss of muscle tone with retained consciousness, usually precipitated by strong emotions (especially laughter).",
+            "Associated features: Disrupted nocturnal sleep, hypnagogic hallucinations (dream-like experiences at sleep onset), hypnopompic hallucinations (at wake transitions), sleep paralysis (inability to move voluntary muscles at sleep-wake transitions)."
+          ]
+        },
+        {
+          "header": "Narcolepsy Type 2",
+          "points": [
+            "Criteria: Daily periods of irrepressible need to sleep or daytime lapses into sleep for at least three months, AND Mean sleep latency ≤ 8 minutes and ≥2 SOREMPs on MSLT WITHOUT Cataplexy.",
+            "CSF hypocretin-1 concentration is normal or high.",
+            "Sleep paralysis, hypnagogic hallucinations, or automatic behavior may be present."
+          ]
+        },
+        {
+          "header": "Circadian Rhythm Sleep-Wake Disorders",
+          "points": [
+            "Includes Delayed sleep-wake phase disorder, Advanced sleep-wake phase disorder, Irregular sleep-wake rhythm disorder, Non-24-hour sleep-wake rhythm disorder, Shift work disorder, Jet-lag disorder, and unspecified circadian sleep-wake disorder.",
+            "((Placeholder-32-1))"
+          ]
+        },
+        {
+          "header": "Parasomnias",
+          "points": [
+            "Undesirable physical events or experiences occurring during sleep onset, within sleep, or during arousal from sleep.",
+            "Can occur during NREM, REM, or transitions to/from sleep.",
+            "Encompass abnormal movements, behaviors, emotions, perceptions, dreams, and autonomic nervous system activity.",
+            "Clinical consequences include injuries, sleep disruption, adverse health effects, and psychosocial effects.",
+            "Categories:",
+            "NREM-related parasomnias (Disorders of arousal, Confusional arousal, Sleepwalking, Sleep terrors, Sleep-related eating disorders).",
+            "REM-related parasomnias (REM sleep behavior disorder, Recurrent isolated sleep paralysis, Nightmare disorder).",
+            "Other parasomnias (Exploding head syndrome, Sleep-related hallucinations, Sleep enuresis, Parasomnia due to medical disorder/medication/substance, unspecified).",
+            "Isolated symptoms/normal variants (Sleep talking).",
+            "((Placeholder-33-1))"
+          ]
+        },
+        {
+          "header": "REM Parasomnias",
+          "points": [
+            "REM sleep behavior disorder (RBD): Repeated episodes of sleep-related vocalization and/or complex motor behaviors, often correlating with dream mentation (unpleasant, action-filled, violent dreams).",
+            "Polysomnography demonstrates REM sleep without atonia (RWA).",
+            "RBD is male-predominant, usually emerging after age 50, and associated with neurological disorders (Parkinson disease, dementia with Lewy bodies, stroke) or medications (antidepressants, beta-blockers).",
+            "Recurrent isolated sleep paralysis.",
+            "Nightmare disorder.",
+            "((Placeholder-36-1))"
+          ]
+        },
+        {
+          "header": "Sleep-Related Movement Disorders",
+          "points": [
+            "Includes Restless leg syndrome (Willis-Ekbom disease), Periodic limb movement disorder, Sleep-related leg cramps, Sleep-related bruxism, Sleep-related rhythmic movement disorder.",
+            "Also includes Benign sleep myoclonus of infancy, Propriospinal myoclonus at sleep onset, disorders due to medical conditions/medications, and isolated symptoms/normal variants (e.g., sleep starts/hypnic jerks)."
+          ]
+        },
+        {
+          "header": "Restless Leg Syndrome (Willis-Ekbom Disease)",
+          "points": [
+            "An urge to move the legs, usually accompanied by or caused by uncomfortable sensations.",
+            "Symptoms begin or worsen during rest, are relieved by movement, and occur predominantly in the evening or night.",
+            "Pathophysiology involves brain iron insufficiency and central nervous system dopamine dysregulation.",
+            "Early-onset RLS is often familial; late-onset RLS may be secondary to iron deficiency, pregnancy, or chronic renal failure.",
+            "Precipitating factors: Iron deficiency (serum ferritin < 50 μg/L), certain medications (sedating antihistamines, dopamine antagonists, most antidepressants except bupropion), pregnancy, chronic renal failure, prolonged immobility.",
+            "Treatment: Iron supplementation if ferritin < 75 μg/dl; medications include dopaminergic agents, antiepileptics, benzodiazepines, opiates, melatonin, and selegiline."
+          ]
+        },
+        {
+          "header": "Key Concepts",
+          "points": [
+            "Sleep and Mythology",
+            "Definition of Sleep",
+            "Sleep Architecture and Macrostructure",
+            "Sleep Architecture: Hypnogram",
+            "Sleep Architecture: Sleep Onset",
+            "REM Sleep Characteristics",
+            "Neurobiology of Wakefulness and Sleep",
+            "Sleep-Wake Cycle Regulation",
+            "Homeostatic Process (Process S)",
+            "Circadian Process (Process C)",
+            "Sleep Tests",
+            "Polysomnography (PSG) Recorded Parameters"
+          ]
+        },
+        [
+          {
+            "header": "Terminology",
+            "points": [
+              "[TYPE:Concept]Sleep[/TYPE]: A spontaneously reversible state of body and mind characterized by closed eyes, relaxed muscles, reduced interaction with the outside world, and decreased body movements.",
+              "[TYPE:Concept]Sleep Architecture[/TYPE]: The cyclical pattern of different sleep stages (NREM and REM) throughout the night.",
+              "[TYPE:Concept]REM Sleep[/TYPE]: Rapid Eye Movement sleep, a stage characterized by desynchronized EEG activity, muscle atonia, and associated with dreaming.",
+              "[TYPE:Concept]NREM Sleep[/TYPE]: Non-Rapid Eye Movement sleep, further divided into stages N1, N2, and N3 (deep sleep).",
+              "[TYPE:Concept]Hypnogram[/TYPE]: A graphical representation of sleep stages over time during the night.",
+              "[TYPE:Concept]Sleep Onset[/TYPE]: The transition from wakefulness into sleep, typically beginning with NREM stage N1.",
+              "[TYPE:Process]Melanogenesis[/TYPE]: The biochemical process of melanin synthesis within melanocytes.",
+              "[TYPE:Anatomy]Melanocyte[/TYPE]: Specialized skin cell responsible for producing melanin pigment.",
+              "[TYPE:Substance]Melanin[/TYPE]: The primary pigment responsible for skin, hair, and eye color.",
+              "[TYPE:Concept]Sleep Cycle[/TYPE]: A regular sequence of NREM and REM sleep stages that occurs multiple times per night.",
+              "[TYPE:Anatomy]Thalamus[/TYPE]: A brain region involved in regulating wakefulness by activating the cerebral cortex.",
+              "[TYPE:Anatomy]Basal Forebrain[/TYPE]: Brain region that, along with other areas, activates the cerebral cortex for wakefulness.",
+              "[TYPE:Anatomy]Brainstem Monoaminergic Nuclei[/TYPE]: Part of the brainstem that contributes to wakefulness by activating the cerebral cortex.",
+              "[TYPE:Anatomy]Posterior Hypothalamus[/TYPE]: A brain region involved in activating the cerebral cortex for wakefulness.",
+              "[TYPE:Anatomy]Ventrolateral Preoptic Neurons (VLPO)[/TYPE]: Neurons in the anterior hypothalamus that regulate NREM and REM sleep.",
+              "[TYPE:Anatomy]Cholinergic Neurons[/TYPE]: Neurons in the lateral dorsal tegmental/pedunculopontine tegmental nuclei involved in regulating NREM and REM sleep.",
+              "[TYPE:Concept]Circadian Clock[/TYPE]: An internal biological clock that regulates the timing of sleep and wakefulness, synchronized by environmental cues.",
+              "[TYPE:Concept]Sleep Homeostasis[/TYPE]: A process where sleep pressure builds up during wakefulness and declines during sleep.",
+              "[TYPE:Concept]Two-Process Model of Sleep Regulation[/TYPE]: A model that integrates the circadian (Process C) and homeostatic (Process S) mechanisms regulating sleep."
+            ]
+          }
+        ]
+      ]
+    }
+  },
+  "225946ce-f975-429c-8e55-7d983034c6e8": {
+    "message": "Upload Successful",
+    "filename": "Approach to patient.pdf",
+    "exec_time": "20 slides summarized in 19.3s",
+    "Content": {
+      "text": [
+        {
+          "header": "Impingement Syndrome",
+          "points": [
+            "Subacromial impingement is the most common cause of shoulder pain, resulting from compression of the rotator cuff muscles by superior structures (AC joint, acromion, CA ligament), leading to inflammation and bursitis.",
+            "Diagnosis can be made on physical examination with positive Neer and Hawkins tests, supplemented by MRI studies.",
+            "Treatment includes nonoperative measures like NSAIDs, physical therapy, and corticosteroid injections.",
+            "Arthroscopic subacromial decompression with possible acromioplasty is indicated for patients who fail conservative measures.",
+            "Painful Arc Test: Pain with arm abducted in the scapular plane from 60° to 120° ((Placeholder-3-1)) ((Placeholder-3-2)).",
+            "Neer's Sign: Positive if passive forward flexion >90° causes pain.",
+            "Hawkins-Kennedy Test: Positive if internal rotation and passive forward flexion to 90° causes pain.",
+            "((Placeholder-2-1)) ((Placeholder-2-2)) ((Placeholder-1-1))"
+          ]
+        },
+        {
+          "header": "Anterior Cruciate Ligament Rupture",
+          "points": [
+            "ACL tears are common athletic injuries leading to anterior and lateral rotatory instability of the knee.",
+            "Diagnosis can be suspected clinically with a traumatic knee effusion and increased laxity on Lachman's test, but requires MRI studies for confirmation.",
+            "Treatment involves ligamentous reconstruction using various techniques and graft choices based on patient age and activity levels.",
+            "Lelli Test - Lever sign: A clenched fist is placed beneath the proximal calf just distal to the tibial tuberosity. Gentle downward pressure is applied over the quadriceps tendon, and the examiner observes if the heel 'lifts off' the bed ((Placeholder-6-1)).",
+            "Anterior Drawer Test - Lachman’s Test: This test relies on proper positioning and technique and is considered the most sensitive and specific test for diagnosing acute ACL injuries ((Placeholder-7-1)).",
+            "((Placeholder-5-1)) ((Placeholder-5-2))"
+          ]
+        },
+        {
+          "header": "Medial Tibial Stress Syndrome (MTSS) / Shin Splints",
+          "points": [
+            "Tibial stress syndrome (shin splints) is an overuse or repetitive-load injury of the shin area causing persistent dull anterior leg pain.",
+            "Diagnosis is made clinically with tenderness along the posteromedial distal tibia, worsened by plantarflexion. Radiographs or bone scans may be used to rule out stress fractures.",
+            "Treatment is generally nonoperative, including NSAIDs, rest, and activity modifications.",
+            "Anatomic Location: 1) Medial (posteromedial) tibial stress syndrome - most common. 2) Anterior (anterolateral) tibial stress syndrome. 3) Distal and posteromedial tibia ((Placeholder-9-1)).",
+            "Physical Examination: 1) Tenderness along the posteromedial border of the tibia. 2) Pes planus. 3) Tight Achilles tendon. 4) Weak core muscles. 5) Provocative test ((Placeholder-10-1)) ((Placeholder-10-2)).",
+            "((Placeholder-8-1)) ((Placeholder-8-2))"
+          ]
+        },
+        {
+          "header": "Achilles Tendon Rupture",
+          "points": [
+            "Achilles Tendon Ruptures are common tendon injuries occurring due to sudden dorsiflexion of a plantarflexed foot, often associated with sports.",
+            "Diagnosis can be made clinically by weakness of plantarflexion with a positive Thompson's test. MRI studies may be indicated for surgical management of chronic injuries.",
+            "Treatment can be nonoperative or operative, depending on patient age, activity demands, and chronicity of injury.",
+            "History - Patient usually reports a 'pop'.",
+            "Symptoms - Weakness and difficulty walking, pain in the heel.",
+            "Physical exam:",
+            "1- Inspection: Increased resting ankle dorsiflexion in prone position with knees bent; calf atrophy may be apparent in chronic cases.",
+            "2- Palpation: Palpable gap.",
+            "3- Motion: Weakness to ankle plantar flexion; increased passive dorsiflexion.",
+            "4- Provocative test: Thompson test - lack of plantar flexion when the calf is squeezed.",
+            "Thompson’s Test ((Placeholder-13-1)).",
+            "Treatment:",
+            "1) Nonoperative: Functional bracing/casting in resting equinus position ((Placeholder-14-1)) ((Placeholder-14-2)) ((Placeholder-14-3)).",
+            "2) Operative: Open end-to-end Achilles tendon repair surgery. Sural nerve?? ((Placeholder-15-1)) ((Placeholder-15-2)).",
+            "((Placeholder-11-1)) ((Placeholder-11-2)) ((Placeholder-11-3))",
+            "((Placeholder-12-1)) ((Placeholder-12-2)) ((Placeholder-12-3))"
+          ]
+        },
+        {
+          "header": "Ankle Sprains",
+          "points": [
+            "Ankle Sprains are common twisting injuries, the most frequent reason for missed athletic participation.",
+            "Diagnosis is clinical, with swelling, ecchymosis of the ankle, and pain with range of motion. Radiographs are indicated only when clinical examination meets criteria (Ottawa ankle rules).",
+            "Treatment typically includes a brief period of immobilization followed by early functional physical therapy. Operative management is rarely indicated for syndesmosis injury with tibiofibular diastasis or chronic ankle instability.",
+            "Classification of ankle sprain:",
+            "1- High ankle sprain: Anterior inferior tibiofibular ligament, Posterior inferior tibiofibular ligament, Syndesmosis injury. 1-10% of all ankle sprains.",
+            "2- Low Ankle sprain: ATFL and CFL injury. 90% of all ankle sprains ((Placeholder-17-1)) ((Placeholder-17-2)) ((Placeholder-17-3)).",
+            "Symptoms:",
+            "1) Pain with weight bearing.",
+            "2) Swelling and ecchymosis.",
+            "3) Recurrent instability.",
+            "4) Catching or popping sensation may occur following recurrent sprains ((Placeholder-18-1)) ((Placeholder-18-2)).",
+            "The Ottawa ankle rule project demonstrated that using these rules reduced radiographic examinations by 28% for the ankle and 14% for the foot ((Placeholder-19-1)). ((Placeholder-20-1))",
+            "((Placeholder-16-1)) ((Placeholder-16-2))"
+          ]
+        },
+        {
+          "header": "Key Concepts",
+          "points": [
+            "Impingement Syndrome",
+            "Anterior Cruciate Ligament Rupture",
+            "Medial Tibial Stress Syndrome (MTSS) / Shin Splints",
+            "Achilles Tendon Rupture",
+            "Ankle Sprains"
+          ]
+        },
+        [
+          {
+            "header": "Terminology",
+            "points": [
+              "[TYPE:Condition]Subacromial impingement[/TYPE]: A common cause of shoulder pain resulting from the compression of rotator cuff muscles by superior structures.",
+              "[TYPE:Test]Neer test[/TYPE]: A physical examination maneuver for shoulder impingement where passive forward flexion greater than 90° causes pain.",
+              "[TYPE:Test]Hawkins-Kennedy Test[/TYPE]: A physical examination maneuver for shoulder impingement involving internal rotation and passive forward flexion to 90°, causing pain.",
+              "[TYPE:Procedure]Arthroscopic subacromial decompression[/TYPE]: A minimally invasive surgical procedure to relieve pressure on the rotator cuff tendons in the shoulder.",
+              "[TYPE:Procedure]Acromioplasty[/TYPE]: A surgical procedure to remove a portion of the acromion bone to increase space in the shoulder.",
+              "[TYPE:Injury]Anterior Cruciate Ligament Rupture[/TYPE]: A tear of the ACL, a major knee ligament, leading to instability.",
+              "[TYPE:Test]Lachman's test[/TYPE]: A sensitive and specific test for diagnosing acute ACL injuries by assessing anterior tibial translation.",
+              "[TYPE:Test]Lelli Test - Lever sign[/TYPE]: A test for knee instability where the examiner observes if the heel lifts off the bed when pressure is applied to the quadriceps tendon.",
+              "[TYPE:Condition]Medial Tibial Stress Syndrome (MTSS)[/TYPE]: An overuse injury of the shin area causing persistent pain along the tibia, commonly known as shin splints.",
+              "[TYPE:Anatomy]Posteromedial distal tibia[/TYPE]: The lower, inner-back part of the shin bone where tenderness is often found in MTSS.",
+              "[TYPE:Condition]Achilles Tendon Rupture[/TYPE]: A tear in the large tendon connecting the calf muscles to the heel bone.",
+              "[TYPE:Test]Thompson's Test[/TYPE]: A test for Achilles tendon rupture where squeezing the calf muscle normally causes plantarflexion; a lack of this indicates a rupture.",
+              "[TYPE:Procedure]Open end-to-end Achilles tendon repair[/TYPE]: A surgical technique to directly suture the torn ends of the Achilles tendon back together.",
+              "[TYPE:Condition]Ankle Sprains[/TYPE]: Common twisting injuries to the ankle ligaments, often resulting in pain, swelling, and instability.",
+              "[TYPE:Anatomy]Anterior inferior tibiofibular ligament[/TYPE]: A ligament in the ankle that, when injured, characterizes a high ankle sprain.",
+              "[TYPE:Anatomy]Posterior inferior tibiofibular ligament[/TYPE]: Another ligament in the ankle involved in high ankle sprains.",
+              "[TYPE:Condition]Syndesmosis injury[/TYPE]: Damage to the ligamentous joint connecting the tibia and fibula in the lower leg, often associated with high ankle sprains.",
+              "[TYPE:Anatomy]ATFL (Anterior Talofibular Ligament)[/TYPE]: A primary ligament in the ankle that, when injured, characterizes a low ankle sprain.",
+              "[TYPE:Anatomy]CFL (Calcaneofibular Ligament)[/TYPE]: A ligament in the ankle often injured in conjunction with the ATFL during low ankle sprains.",
+              "[TYPE:Rule]Ottawa ankle rules[/TYPE]: A set of clinical criteria used to determine if radiographic examination is necessary for ankle or foot injuries."
+            ]
+          }
+        ]
+      ]
+    }
+  },
+  "f69a8f82-9b71-4e9f-8f9f-02907961fd6b": {
+    "message": "Upload Successful",
+    "filename": "CNS .SINIF.pdf",
+    "exec_time": "47 slides summarized in 13.5s",
+    "Content": {
+      "text": [
+        {
+          "header": "CNS Infection Definitions",
+          "points": [
+            "Meningitis is defined as inflammation of the membranes of the brain or spinal cord (also known as arachnoiditis or leptomeningitis).",
+            "Encephalitis denotes inflammation of the brain itself.",
+            "Myelitis refers to inflammation of the spinal cord.",
+            "Combinations like meningoencephalitis or encephalomyelitis refer to more diffuse infection processes.",
+            "Abscesses are collections of infective and purulent material within the CNS ((Placeholder-3-1)) ((Placeholder-3-2))."
+          ]
+        },
+        {
+          "header": "Etiologies of CNS Infections",
+          "points": [
+            "CNS infections can be caused by viruses, bacteria, fungi, protozoa, and helminths.",
+            "Noninfectious etiologies that can mimic CNS infections include neoplastic diseases, intracranial tumors and cysts, medications, collagen vascular disorders, and other systemic illnesses."
+          ]
+        },
+        {
+          "header": "Clinical Presentation of CNS Infections",
+          "points": [
+            "The clinical presentation can be acute, subacute, or chronic, depending on the virulence of the infecting agent and the location of the infection.",
+            "CNS infections occur within the cranium or spinal column and may be associated with significant morbidity and mortality, often requiring emergent interventions.",
+            "The specific presentation depends on the pathogenesis of spread to the CNS, the virulence of the etiologic agent, and the area of CNS involvement.",
+            "Common clinical findings include fever, headache, altered mental status, and focal neurologic deficits, though these are nonspecific and not always present."
+          ]
+        },
+        {
+          "header": "Meningitis Presentation",
+          "points": [
+            "Acute meningitis typically presents with fever, headache, meningismus, and altered mental status.",
+            "Patients with acute bacterial meningitis usually seek medical attention within hours to days of illness.",
+            "Nuchal rigidity ((Placeholder-9-1)), Kernig sign ((Placeholder-10-1)), and Brudzinski sign ((Placeholder-11-1)) are characteristic findings.",
+            "Presentation can vary with age, underlying conditions (head trauma, recent neurosurgery, CSF shunt, immunocompromised state), and the causative microorganism.",
+            "Common etiologic agents for acute meningitis include viruses (enteroviruses, HIV, mumps, herpes simplex) and bacteria (Streptococcus pneumoniae, Neisseria meningitidis, Listeria monocytogenes). Protozoa like Naegleria fowleri and Angiostrongylus cantonensis are less common.",
+            "Subacute or chronic meningitis presents over weeks to months or years, with a more gradual onset, lower fever, and potential lethargy and disability.",
+            "Causes of subacute or chronic meningitis include Mycobacteria (especially Mycobacterium tuberculosis), Spirochetes (Treponema pallidum, Borrelia burgdorferi), and Fungi (Cryptococcus neoformans, Coccidioides spp.). Patients with these infections are often immunocompromised.",
+            "Cryptococcal meningitis presentation differs in AIDS patients (more subtle, headache, lethargy) versus non-AIDS patients (subacute, headache, fever, meningismus, personality changes)."
+          ]
+        },
+        {
+          "header": "Encephalitis Presentation",
+          "points": [
+            "Acute encephalitis shares features with acute meningitis, often presenting with fever, headache, and altered mental status.",
+            "Mental status changes occur early due to diffuse involvement of the cerebral cortex.",
+            "Other findings include behavioral and speech disturbances, focal or diffuse neurologic signs (e.g., seizures, hemiparesis).",
+            "Viral causes like Herpes simplex virus can affect the CNS focally (temporal lobe), leading to personality changes, altered mentation, decreasing consciousness, seizures, and focal neurologic findings.",
+            "Other viral causes include Varicella-zoster virus, Cytomegalovirus, Human Herpesvirus 6, Arboviruses (West Nile, Eastern equine, St. Louis, California, Japanese encephalitis viruses), HIV, Rabies virus, and Enteroviruses.",
+            "Seasonality can suggest the agent (Arboviruses in summer/fall; HSV and HIV sporadically).",
+            "Non-viral causes include L. monocytogenes, Rickettsia spp., Ehrlichia spp., Bartonella spp., Mycoplasma pneumoniae, and Toxoplasma gondii (especially in transplant patients).",
+            "Epidemiologic clues like geographic locale, local disease prevalence, travel history, occupational exposure, insect/animal contact, vaccination history, and immune status are helpful.",
+            "In many cases (32% to 75%), the etiology remains unknown despite testing."
+          ]
+        },
+        {
+          "header": "Focal CNS Syndromes",
+          "points": [
+            "Focal CNS lesions include brain abscess, subdural empyema, and epidural abscess.",
+            "Presentation depends on the route of spread, lesion location, and severity of increased intracranial pressure (ICP).",
+            "Brain abscesses can result from contiguous spread (sinusitis, otitis media, mastoiditis), trauma, or hematogenous dissemination.",
+            "Initial manifestations include headache, nausea, vomiting, and focal neurologic findings.",
+            "Seizures or altered consciousness may occur; fever is seen in less than 50% of patients.",
+            "Fungal brain abscesses (Aspergillus spp., Mucorales) can present as stroke syndromes due to vascular invasion.",
+            "Focal infections compressing the spinal cord can cause back pain, radiculopathy, motor and sensory deficits, potentially progressing to irreversible paralysis without emergency intervention."
+          ]
+        },
+        {
+          "header": "Lumbar Puncture (LP) in CNS Infections",
+          "points": [
+            "LP is an essential diagnostic procedure for many CNS infections, especially those presenting with meningitis or encephalitis.",
+            "Normal CSF: 140-150 ml/day production, clear and colorless, no red or white blood cells, pressure 50-195 mm/H2O, glucose 40-80 mg/dl, protein 15-45 mg/dl, negative Gram stain and culture.",
+            "The spinal needle is typically inserted between the L3 and L4 vertebrae.",
+            "Complications range from mild discomfort to life-threatening conditions like headache (most common), infections, local bleeding, and brain herniation (most feared) ((Placeholder-32-1)). ((Placeholder-47-1))",
+            "General guidelines for LP without neuroimaging: age < 60, immunocompetent, no history of CNS disease, no recent seizure (< 1 week), normal sensorium/cognition, no papilledema, no focal neurologic deficits.",
+            "Neuroimaging (CT or MRI) is recommended before LP in patients with suspected intracranial mass lesion, immunocompromised state, history of CNS disease, new-onset seizure, abnormal consciousness, papilledema, focal neurologic deficit, or abnormal ocular motility.",
+            "Normal CSF opening pressure is 50-195 mm H2O. CSF is normally clear and colorless but can appear cloudy/turbid with increased WBCs (>200/mm³), RBCs (>400/mm³), bacteria (>10⁵ CFU/mL), or elevated protein (>2000 mg/dl).",
+            "Xanthochromia (yellow/yellow-orange supernatant) usually results from RBC lysis but can also occur with elevated CSF protein (>150 mg/dL) or systemic hyperbilirubinemia (>10-15 mg/dL).",
+            "CSF Findings in Meningitis: Viral (50-1000 WBC, Mononuclear, Glucose >45, Protein <200), Bacterial (1000-5000+ WBC, Neutrophil, Glucose <40, Protein 100-500), Tuberculosis (50-300 WBC, Mononuclear, Glucose <45, Protein 50-300), Cryptococcal (20-500 WBC, Mononuclear, Glucose <40, Protein >45).",
+            "Cultures are important for identifying the etiologic agent. CSF Gram stain provides clues. India ink is positive in 50-75% of cryptococcal meningitis. PCR tests are highly sensitive and specific."
+          ]
+        },
+        {
+          "header": "Treatment of Bacterial Meningitis",
+          "points": [
+            "Rapid administration of bactericidal antibiotics with good CNS and tissue penetration is crucial.",
+            "Empiric antibiotic choice is based on broad-spectrum coverage of common pathogens, considering local prevalence.",
+            "Recommendations often include ceftriaxone or cefotaxime, and vancomycin for optimal coverage of resistant organisms.",
+            "High-dose ampicillin is added if Listeria is suspected (young/old, immunocompromised).",
+            "For penicillin/cephalosporin allergy, meropenem or chloramphenicol plus vancomycin are recommended.",
+            "Delay in antibiotic administration is associated with worsening outcomes; diagnostic tests should not delay empiric therapy.",
+            "Dexamethasone is recommended in adults, given before or with initial antibiotics and continued for 4 days.",
+            "Antibiotic prophylaxis is recommended for high-risk exposures to Neisseria or Hib meningitis (household contacts, exposure to oral secretions, intubation without a mask). Regimens include ciprofloxacin, ceftriaxone, or rifampin.",
+            "Prophylaxis is not indicated for pneumococcal meningitis."
+          ]
+        },
+        {
+          "header": "Treatment of Viral Meningitis",
+          "points": [
+            "Only HSV disease has specific therapy (Acyclovir 10 mg/kg IV every 8 hours).",
+            "Ganciclovir can be used for CMV infections.",
+            "Pleconaril shows promise for enteroviral disease.",
+            "Symptomatic treatment is generally provided."
+          ]
+        },
+        {
+          "header": "Treatment of Brain Abscess",
+          "points": [
+            "Treatment involves appropriate antibiotics and neurosurgical consultation.",
+            "Antibiotic choice should consider likely pathogens (especially anaerobes) and CSF penetration, often including a third-generation cephalosporin and metronidazole.",
+            "Vancomycin is often added for recently postoperative patients.",
+            "Drainage may be necessary."
+          ]
+        },
+        {
+          "header": "Key Concepts",
+          "points": [
+            "CNS Infection Definitions",
+            "Etiologies of CNS Infections",
+            "Clinical Presentation of CNS Infections",
+            "Meningitis Presentation",
+            "Encephalitis Presentation",
+            "Focal CNS Syndromes",
+            "Lumbar Puncture (LP) in CNS Infections",
+            "Treatment of Bacterial Meningitis",
+            "Treatment of Viral Meningitis",
+            "Treatment of Brain Abscess"
+          ]
+        },
+        [
+          {
+            "header": "Terminology",
+            "points": [
+              "[TYPE:Condition]Meningitis[/TYPE]: Inflammation of the membranes surrounding the brain or spinal cord, also known as arachnoiditis or leptomeningitis.",
+              "[TYPE:Condition]Encephalitis[/TYPE]: Inflammation of the brain tissue itself.",
+              "[TYPE:Condition]Myelitis[/TYPE]: Inflammation of the spinal cord.",
+              "[TYPE:Condition]Meningoencephalitis[/TYPE]: A condition involving inflammation of both the meninges and the brain.",
+              "[TYPE:Condition]Encephalomyelitis[/TYPE]: A condition involving inflammation of both the brain and the spinal cord.",
+              "[TYPE:Condition]Abscess[/TYPE]: A localized collection of pus and infective material within the Central Nervous System (CNS).",
+              "[TYPE:Concept]Etiology[/TYPE]: The cause or origin of a disease or condition.",
+              "[TYPE:Concept]Pathogenesis[/TYPE]: The mechanism by which a disease or condition develops.",
+              "[TYPE:Symptom]Meningismus[/TYPE]: A stiff or painful neck, often associated with meningitis.",
+              "[TYPE:Sign]Nuchal rigidity[/TYPE]: Stiffness of the neck, preventing flexion, a characteristic sign of meningitis.",
+              "[TYPE:Sign]Kernig sign[/TYPE]: A sign of meningitis characterized by pain and resistance to extension of the knee when the hip is flexed.",
+              "[TYPE:Sign]Brudzinski sign[/TYPE]: A sign of meningitis where passive flexion of the neck causes involuntary flexion of the knees and hips.",
+              "[TYPE:Substance]Cerebrospinal fluid (CSF)[/TYPE]: The fluid that surrounds the brain and spinal cord, analyzed for diagnostic purposes.",
+              "[TYPE:Procedure]Lumbar Puncture (LP)[/TYPE]: A diagnostic procedure to collect CSF from the spinal canal, typically between the L3 and L4 vertebrae.",
+              "[TYPE:Finding]Xanthochromia[/TYPE]: Yellow or yellow-orange discoloration of the CSF supernatant, usually due to red blood cell lysis.",
+              "[TYPE:Concept]Bactericidal antibiotics[/TYPE]: Antibiotics that kill bacteria.",
+              "[TYPE:Concept]Empiric antibiotic choice[/TYPE]: Antibiotic treatment initiated based on suspected pathogens before definitive identification.",
+              "[TYPE:Concept]Neuroimaging[/TYPE]: Medical imaging techniques such as CT or MRI used to visualize the brain and spinal cord.",
+              "[TYPE:Concept]Increased intracranial pressure (ICP)[/TYPE]: Elevated pressure within the skull, which can be a complication of CNS infections.",
+              "[TYPE:Condition]Fungal brain abscess[/TYPE]: A brain abscess caused by a fungal infection, which can sometimes present as a stroke syndrome."
+            ]
+          }
+        ]
+      ]
+    }
+  },
+  "e2bb9017-b9b3-4b58-be1f-cc5c259a66a2": {
+    "message": "Upload Successful",
+    "filename": "fever of unknown origin,4.pdf",
+    "exec_time": "58 slides summarized in 19.6s",
+    "Content": {
+      "text": [
+        {
+          "header": "Fever of Unknown Origin (FUO) Overview",
+          "points": [
+            "Most episodes of fever are short-lived and do not require diagnostic investigation or specific therapy.",
+            "Some fevers can be readily diagnosed and effectively treated.",
+            "A small but important subgroup of fevers are persistent and difficult to diagnose.",
+            "Puzzling fevers have fascinated and frustrated clinicians since the earliest days of clinical studies.",
+            "Prolonged and Perplexing Fevers (Keefer and Leard, 1955) and Fever of Unknown Origin: Report on 100 cases (Petersdorf and Beeson, 1961) are historical references."
+          ]
+        },
+        {
+          "header": "Terminology and Definition of FUO",
+          "points": [
+            "In the United States, 'fever of unknown origin (FUO)' is generally used.",
+            "In other countries, 'pyrexia of unknown origin (PUO)' is often used.",
+            "The first formal definition by Petersdorf and Beeson (nearly five decades ago) included: fever higher than 38.3° C, persisting without diagnosis for at least 3 weeks, and persisting after at least 1 week of investigation in hospital.",
+            "Investigators have modified and extended this definition to include Classical FUO, Health Care Associated FUO, Immune-deficient FUO, and HIV-related FUO.",
+            "Advances like computed axial tomography, magnetic resonance imaging, ultrasound imaging, nucleic acid-based diagnostic testing, and rapid tests for pathogens have changed the landscape of FUO diagnosis."
+          ]
+        },
+        {
+          "header": "Four Subtypes of FUO",
+          "points": [
+            "Classical FUO: >38.0° C, >3 weeks, >2 visits or 3 days in hospital. Leading causes: Cancer, infections, inflammatory conditions, undiagnosed habitual hyperthermia.",
+            "Health care-associated FUO: >38.0° C, >3 days, not present or incubating on admission. Causes: Health care-associated infections, postoperative complications, drug fever.",
+            "Immune-Deficient FUO: >38.0° C, >3 days, negative cultures after 48 hr. Causes: Majority due to infections (40%-60% documented).",
+            "HIV-Related FUO: 38.0° C, >3 weeks for outpatients, >3 days for inpatients, confirmed HIV infection. Causes: HIV (primary infection), typical and atypical mycobacteria, CMV, lymphomas, toxoplasmosis, cryptococcosis, immune reconstitution inflammatory syndrome (IRIS)."
+          ]
+        },
+        {
+          "header": "Classical FUO Characteristics",
+          "points": [
+            "Most patients with classical FUO have subacute or chronic symptoms and can be safely investigated as outpatients.",
+            "In one series, the median duration of fever before diagnosis was 40 days.",
+            "Disorders causing classical FUO fall into five categories: Infections, Neoplasms, Connective tissue diseases, Miscellaneous other disorders, and Undiagnosed illnesses."
+          ]
+        },
+        {
+          "header": "Infections as a Cause of Classical FUO",
+          "points": [
+            "Infections are the largest category, accounting for 25% to 50% of cases.",
+            "In patients over 65 years, infections become less common, falling to second or third place.",
+            "Consistently important infections include abscesses, endocarditis, tuberculosis, and complicated urinary tract infections.",
+            "Incidence of infections varies by locale (e.g., visceral leishmaniasis in Spain, familial Mediterranean fever in Ashkenazi Jews, Kikuchi’s disease in Japan, TRAPS in Ireland)."
+          ]
+        },
+        {
+          "header": "Miscellaneous Causes of Classical FUO",
+          "points": [
+            "Rare causes include Addison’s disease, Adult Still’s disease, Alcoholic hepatitis, Aortic dissection, Behçet’s syndrome, Chronic meningitis, Erythema multiforme, Fabry’s disease, Granulomatous hepatitis, Histiocytosis X, Inflammatory bowel disease, Pheochromocytoma, Sarcoidosis, Vitamin B12 deficiency, and others.",
+            "Other miscellaneous causes include Allergic alveolitis, Atrial myxoma, Autoimmune cholangitis, Bartonellosis, Carcinomatous meningitis, Castleman’s disease, Cirrhotic fever, Cyclic neutropenia, Drug fever and other Hypersensitivities, Factitious fever, Familial Hibernian fever, Familial Mediterranean fever, Giant coronary aneurysm, Granulomatous peritonitis, Hantavirus infection, Hemoglobinopathies, Hemolytic anemias, Hemophagocytic syndrome, Human picornavirus infection, Hypereosinophilic syndrome, Immunoblastic lymphadenopathy, Infected urachal cyst, Kikuchi-Fujimoto disease, Lofgren syndrome, Lymphomatoid granulomatosis, Metal fume fever, Myeloproliferative syndromes, Pancreatitis, Parathyroid apoplexy, Paroxysmal hemoglobinurias, Pericarditis, Periodic fever, Polyarteritis nodosa, Postpericardiotomy syndrome, Pulmonary emboli, Resorbing hematoma, Retroperitoneal fibrosis, Rosai-Dorfman disease, Schnitzler’s syndrome, Sinusitis, Serum sickness, Sjögren’s syndrome, Subacute necrotizing lymphadenitis, Thrombotic thrombocytopenic purpura, Thyroiditis and thyrotoxicosis, Veno-occlusive disease, Wegener’s granulomatosis, and Whipple’s disease."
+          ]
+        },
+        {
+          "header": "Connective Tissue Diseases in Classical FUO",
+          "points": [
+            "Connective tissue diseases like Still’s disease (juvenile rheumatoid arthritis), other variants of rheumatoid arthritis, and systemic lupus erythematosus predominate in younger patients.",
+            "Temporal arteritis and polymyalgia rheumatica syndromes are more common in elderly patients."
+          ]
+        },
+        {
+          "header": "Malignant Neoplasms in Classical FUO",
+          "points": [
+            "Malignant neoplasms can induce fever directly through pyrogenic cytokines (lymphomas).",
+            "They can also generate fevers indirectly through spontaneous or induced necrosis or by creating conditions for secondary infections, such as postobstructive pneumonia."
+          ]
+        },
+        {
+          "header": "Classical FUO in Infants and Children",
+          "points": [
+            "Diseases causing classical FUO in infants differ from those in older children and adults.",
+            "Respiratory infections cause classical FUO in infants more often than in children over 12 months or adults.",
+            "Infections are frequent causes in infants, while connective tissue diseases and cancers are rare.",
+            "Kawasaki disease occurs in children younger than 5 years.",
+            "Connective tissue diseases are rarely seen in children younger than 12 months.",
+            "Still’s disease is a leading cause of FUO in older children and young adults.",
+            "Joint involvement in children with FUO can signify serious underlying disorders like connective tissue disease, endocarditis, or leukemia."
+          ]
+        },
+        {
+          "header": "Pediatric FUO Case Series",
+          "points": [
+            "In a series of 146 pediatric cases, a specific diagnosis was established in 84 (57.5%).",
+            "Diagnoses included: 64 (43.8%) Infections, 11 (7.5%) Autoimmune disorders, 4 (2.7%) Malignant neoplasms, and 5 (3.4%) other disorders (drug-induced fever, sarcoidosis, mercury poisoning).",
+            "Most common infectious diseases diagnosed were Epstein-Barr virus (EBV) infection (15%), Osteomyelitis (10%), Bartonellosis (5%), and Urinary tract infections (4%)."
+          ]
+        },
+        {
+          "header": "Classical FUO in the Elderly",
+          "points": [
+            "In patients over 65 years, connective tissue diseases are frequently identified as the cause of FUO, surpassing infections as the leading cause in developed countries.",
+            "Temporal arteritis and polymyalgia rheumatica syndromes are common in the elderly.",
+            "Infections identified in elderly patients include intra-abdominal abscesses, complicated urinary tract infections, tuberculosis, and endocarditis."
+          ]
+        },
+        {
+          "header": "Diagnosis Comparison: <65 vs. >65 Years",
+          "points": [
+            "For patients <65 years (n=152): Infections 35%, Tumors 5%, Multisystem diseases 17%, Miscellaneous 26%, No diagnosis 29%.",
+            "For patients >65 years (n=201): Infections 21%, Tumors 19%, Multisystem diseases 28%, Miscellaneous 8%, No diagnosis 9%."
+          ]
+        },
+        {
+          "header": "Diagnosis in Returned Travelers",
+          "points": [
+            "Fever in returned travelers is most often due to common infections like Malaria, Respiratory tract Infections, and Urinary tract infections."
+          ]
+        },
+        {
+          "header": "Health Care-Associated FUO",
+          "points": [
+            "Health care-associated FUO occurs when patients manifest fever during active medical treatment for another illness.",
+            "Risk factors include surgical procedures, urinary and respiratory tract instrumentation, intravascular devices, drug therapy, and immobilization."
+          ]
+        },
+        {
+          "header": "Immune-Deficient FUO",
+          "points": [
+            "Immunosuppressed patients have the highest incidence of FUO.",
+            "In patients with impaired cell-mediated immunity, FUO is often due to infections (58%), non-infectious causes (25%), or undetermined (17%).",
+            "Neutropenia, resulting from cytotoxic therapy or malignancies affecting the bone marrow, is a dangerous condition and a special subclass of immunodeficiency.",
+            "Fever episodes are common in neutropenia, often short-lived due to rapid response to treatment or rapidly fatal infections.",
+            "Bacteremia and sepsis are frequent causes; empirical broad-spectrum antibiotics should be administered promptly.",
+            "About 35% of prolonged febrile neutropenia episodes respond to broad-spectrum antibiotic therapy.",
+            "If fever does not respond promptly to antibacterial therapy, fungal infection, resistant bacterial infections, tuberculosis, Toxoplasma gondii, Graft-Versus-Host disease, drug fever, or toxic effects of chemotherapy must be considered."
+          ]
+        },
+        {
+          "header": "HIV-Related FUO",
+          "points": [
+            "The primary phase of HIV infection is characterized by a mononucleosis-like illness with prominent fever.",
+            "During the long subclinical infection period, patients are usually afebrile.",
+            "In later phases of untreated HIV infection, fever episodes become common, often signifying superimposed opportunistic infections."
+          ]
+        },
+        {
+          "header": "Clinical Evaluation of FUO",
+          "points": [
+            "Evaluation typically includes a comprehensive history, verification of fever, consideration of fever pattern, repeated physical examinations, laboratory investigations, imaging studies, and invasive diagnostic procedures.",
+            "History is crucial for guiding initial laboratory investigations, with attention to recent travel, animal exposure, work environment, contact with similar symptoms, family history, past medical history, and obtained medications.",
+            "Verification of fever is important, as up to 35% of patients investigated for prolonged fever were found not to have significant fever or to have factitious fever.",
+            "Fever patterns include Febris continue, Febris recurrens, Intermittent (Hectic), Febris undulens (Pel-Ebstein), Remittent, and Subfebril fever.",
+            "Pulse-temperature disassociation can be seen in typhoid fever and atypical pneumonia (1-degree fever elevation with 20 heartbeats elevation).",
+            "Key physical abnormalities in FUO can be subtle and require repeated examinations (e.g., nodular temporal artery in temporal arteritis, oral ulcers in histoplasmosis or Behçet’s syndrome, choroid granuloma or epididymal nodule in extrapulmonary tuberculosis, testicular nodule in polyarteritis nodosa, rectal fluctuance of a perirectal abscess).",
+            "Physical findings by body site can suggest diagnoses: Sinus tenderness (Sinusitis), Nodules/reduced pulsation of temporal artery (Temporal arteritis), Ulceration of oropharynx (Histoplasmosis), Tender tooth (Periapical abscess), Choroid tubercle in fundus (Disseminated granulomatosis), Petechiae/Roth spots in conjunctiva (Endocarditis), Enlargement/tenderness of thyroid (Thyroiditis), Murmur (Infective endocarditis), LAP/Splenomegaly in abdomen (Lymphoma, endocarditis, disseminated granulomatosis), Perirectal fluctuance (Abscess), Testicular nodule (Periarteritis nodosa), Epididymal nodule (Disseminated granulomatosis), Deep venous tenderness in lower extremities (Thrombosis, thrombophlebitis), Petechiae, clubbing, splinter hemorrhages, subcutaneous nodule on skin/nails (Vasculitis, endocarditis)."
+          ]
+        },
+        {
+          "header": "Laboratory Investigations in FUO",
+          "points": [
+            "Noninvasive laboratory tests yield diagnoses in approximately a quarter of cases.",
+            "Most useful tests include serologic tests, blood smears, and microbial cultures.",
+            "Bone marrow examination is considered for suspected granulomatous diseases (Tuberculosis, Histoplasmosis, Sarcoidosis, Carcinomatosis, Hemophagocytic syndrome).",
+            "Imaging studies include Ultrasound (USG), Computed tomography (CT), Magnetic resonance imaging (MR), Scanning with labeled autologous leukocytes, Gallium 67 scanning, and Positron emission tomography (PET)."
+          ]
+        },
+        {
+          "header": "Invasive Diagnostic Procedures in FUO",
+          "points": [
+            "Histopathologic examination of tissues obtained by excisional biopsy, needle biopsy, laparoscopy, or laparotomy can provide answers, but yields the final diagnosis in less than half of FUO patients.",
+            "The diagnostic yield of operative and CT-guided biopsies is higher than bedside procedures.",
+            "Exploratory laparotomy is rarely performed today unless localized abdominal signs or imaging findings are present, as CT scanning or MRI rarely miss abdominal abnormalities.",
+            "((Placeholder-50-1)) ((Placeholder-40-1)) ((Placeholder-58-1))"
+          ]
+        },
+        {
+          "header": "Therapeutic Trials in FUO",
+          "points": [
+            "Empirical therapy with anti-inflammatory agents (corticosteroids, aspirin), antimicrobial agents, or antineoplastic drugs was used in the past but is seldom indicated today.",
+            "Limitations and risks of empirical trials include spontaneous remission giving a false impression of success and the nonspecific action of drugs (e.g., Rifampin against various bacteria, naproxen for malignant neoplasms).",
+            "Therapeutic trials, even if successful in reducing fever, may delay correct diagnosis and appropriate treatment."
+          ]
+        },
+        {
+          "header": "Management of FUO",
+          "points": [
+            "A fundamental principle is to withhold therapy until the cause of fever is determined, allowing for tailored treatment.",
+            "For febrile neutropenic patients, principles differ: broad-spectrum antimicrobial therapy should be administered immediately after obtaining culture samples."
+          ]
+        },
+        {
+          "header": "Prognosis of FUO",
+          "points": [
+            "Elderly patients with malignant neoplasms have the poorest prognosis.",
+            "Diagnostic delay adversely affects prognosis in intra-abdominal infections, miliary tuberculosis, disseminated fungal infections, and recurrent pulmonary emboli."
+          ]
+        },
+        {
+          "header": "General Diagnostic Evaluation of FUO",
+          "points": [
+            "Comprehensive history, repeated physical examinations, complete blood count, routine blood chemistry, urinalysis, chest radiograph, erythrocyte sedimentation rate, antinuclear antibodies, rheumatoid factor, blood cultures (three or more separate specimens without antimicrobial therapy), Cytomegalovirus IgM antibodies or viral detection, Heterophile antibody test (in children/young adults), Tuberculin skin test, CT of abdomen/pelvis/other sites, MRI, Radionuclide scans, HIV antibodies or viral detection assay, further evaluation of any abnormality, and Venous duplex imaging of lower limbs."
+          ]
+        },
+        {
+          "header": "Key Concepts",
+          "points": [
+            "Fever of Unknown Origin (FUO) Overview",
+            "Terminology and Definition of FUO",
+            "Four Subtypes of FUO",
+            "Classical FUO Characteristics",
+            "Infections as a Cause of Classical FUO",
+            "Miscellaneous Causes of Classical FUO",
+            "Connective Tissue Diseases in Classical FUO",
+            "Malignant Neoplasms in Classical FUO",
+            "Classical FUO in Infants and Children",
+            "Pediatric FUO Case Series",
+            "Classical FUO in the Elderly",
+            "Diagnosis Comparison: <65 vs. >65 Years"
+          ]
+        },
+        [
+          {
+            "header": "Terminology",
+            "points": [
+              "[TYPE:Condition]Fever of Unknown Origin (FUO)[/TYPE]: A condition characterized by persistent fever that remains undiagnosed after a specified period of investigation.",
+              "[TYPE:Condition]Pyrexia of Unknown Origin (PUO)[/TYPE]: An alternative term used in some countries for Fever of Unknown Origin (FUO).",
+              "[TYPE:Measurement]Temperature Threshold[/TYPE]: A specific body temperature, typically higher than 38.0° C or 38.3° C, used as a criterion in the definition of FUO.",
+              "[TYPE:Timeframe]Diagnostic Duration[/TYPE]: The minimum period of fever, usually at least 3 weeks, required to meet the definition of FUO.",
+              "[TYPE:Setting]Health Care Associated FUO[/TYPE]: A subtype of FUO occurring in patients receiving medical care, with fever developing after a certain period of hospitalization or treatment.",
+              "[TYPE:Condition]Immune-Deficient FUO[/TYPE]: A subtype of FUO specifically defined for patients with compromised immune systems, often with a shorter duration criterion.",
+              "[TYPE:Condition]HIV-Related FUO[/TYPE]: A subtype of FUO defined for patients with confirmed HIV infection, with specific duration criteria for outpatients and inpatients.",
+              "[TYPE:Category]Classical FUO[/TYPE]: The traditional subtype of FUO defined by prolonged fever, typically without a clear cause after initial investigations.",
+              "[TYPE:Category]Infections[/TYPE]: A major category of causes for FUO, accounting for a significant percentage of diagnosed cases.",
+              "[TYPE:Category]Neoplasms[/TYPE]: Cancers and other malignant growths that can present as a cause of FUO.",
+              "[TYPE:Category]Connective Tissue Diseases[/TYPE]: A group of autoimmune disorders affecting connective tissues, which can lead to FUO.",
+              "[TYPE:Disease]Tuberculosis[/TYPE]: An infectious disease caused by Mycobacterium tuberculosis, frequently identified as a cause of FUO.",
+              "[TYPE:Disease]Endocarditis[/TYPE]: Inflammation of the inner lining of the heart, often caused by infection, and a notable cause of FUO.",
+              "[TYPE:Disease]Temporal Arteritis[/TYPE]: Inflammation of arteries, particularly in the head, more common in the elderly and a cause of FUO.",
+              "[TYPE:Disease]Polymyalgia Rheumatica[/TYPE]: An inflammatory condition causing muscle pain and stiffness, often associated with temporal arteritis in the elderly.",
+              "[TYPE:Disease]Kawasaki Disease[/TYPE]: An illness causing inflammation in blood vessels throughout the body, primarily affecting children younger than 5 years.",
+              "[TYPE:Disease]Still's Disease[/TYPE]: A form of inflammatory arthritis, also known as juvenile idiopathic arthritis, a leading cause of FUO in older children and young adults.",
+              "[TYPE:Process]Neutropenia[/TYPE]: A condition characterized by an abnormally low level of neutrophils, increasing susceptibility to infection and complicating FUO diagnosis.",
+              "[TYPE:Diagnostic Tool]Wood's Lamp[/TYPE]: A device emitting ultraviolet light used to examine the skin, sometimes employed in FUO investigations.",
+              "[TYPE:Diagnostic Procedure]Excisional Biopsy[/TYPE]: A surgical procedure to remove a tissue sample for examination, used in invasive diagnostic procedures for FUO."
+            ]
+          }
+        ]
+      ]
+    }
+  },
+  "c18a6ab9-382c-4b7c-a58b-563583e871d4": {
+    "message": "Upload Successful",
+    "filename": "OSTEOPOROSIS (ENG)-Dr. Enes SARI 2020.pdf",
+    "exec_time": "47 slides summarized in 27.3s",
+    "Content": {
+      "text": [
+        {
+          "header": "Osteoporosis Definition and WHO Criteria",
+          "points": [
+            "Osteoporosis is a disease characterized by low bone mass and microarchitectural deterioration of bone tissue, leading to enhanced bone fragility and an increased fracture incidence.",
+            "According to the WHO, osteoporosis is defined as a BMD T-score of -2.5 or less ((Placeholder-2-1)) ((Placeholder-2-2)). ((Placeholder-1-1)) ((Placeholder-1-2)) ((Placeholder-1-3))"
+          ]
+        },
+        {
+          "header": "Bone Quality and Fracture Occurrence",
+          "points": [
+            "Trabecular bone and bone quality are not the sole factors in fracture occurrence ((Placeholder-3-1)) ((Placeholder-3-2)) ((Placeholder-3-3)) ((Placeholder-3-4)). ((Placeholder-1-4))"
+          ]
+        },
+        {
+          "header": "Pathogenesis of Fragility Fractures",
+          "points": [
+            "Factors contributing to fracture risk include bone mass, bone structure, bone quality, fall risk, impact of fall, skeletal strength, type of fall, energy reduction, external protection, neuromuscular function, environmental risks, and age ((Placeholder-4-1))."
+          ]
+        },
+        {
+          "header": "Risk Factors for Osteoporosis",
+          "points": [
+            "Risk factors for osteoporosis include female sex, sedentary lifestyle, multiple births, and excessive alcohol use ((Placeholder-5-1)) ((Placeholder-5-2)) ((Placeholder-5-3)) ((Placeholder-5-4))."
+          ]
+        },
+        {
+          "header": "Incidence of Limb Fractures",
+          "points": [
+            "Osteoporosis affects approximately 8 million women in the US, with 22 million women having osteopenia.",
+            "The risk of fragility fractures includes 250,000 hip fractures and 500,000 vertebral fractures per year in women ((Placeholder-6-1))."
+          ]
+        },
+        {
+          "header": "Bone Pathophysiology and Mass Changes",
+          "points": [
+            "Normal bone turnover involves osteoclasts for resorption and osteoblasts for formation and mineralization.",
+            "In osteoporosis, resorption exceeds formation.",
+            "Bone mass peaks by mid-30s, and bone loss begins several years prior to menopause.",
+            "The risk of fracture increases with BMD loss ((Placeholder-7-1)) ((Placeholder-7-2)) ((Placeholder-7-3)) ((Placeholder-7-4)) ((Placeholder-8-1))."
+          ]
+        },
+        {
+          "header": "Screening Methods for Osteoporosis",
+          "points": [
+            "Dual-energy x-ray absorptiometry (DEXA) is a screening method.",
+            "Femoral neck BMD is the best predictor of hip fractures.",
+            "Forearm BMD predicts non-hip fractures ((Placeholder-9-1)) ((Placeholder-9-2)) ((Placeholder-9-3))."
+          ]
+        },
+        {
+          "header": "FRAX Tool for Fracture Risk Assessment",
+          "points": [
+            "FRAX is a diagnostic tool used to evaluate the 10-year probability of bone fracture risk.",
+            "It integrates clinical risk factors and BMD at the femoral neck to calculate the 10-year probability of hip fracture and major osteoporotic fracture (clinical spine, forearm, hip, or shoulder fracture) ((Placeholder-10-1)) ((Placeholder-10-2))."
+          ]
+        },
+        {
+          "header": "Background on Senile Osteoporosis",
+          "points": [
+            "Senile osteoporosis is common, with some degree of osteopenia found in virtually all healthy elderly patients.",
+            "Treatable causes should be investigated, including nutritional deficiency, malabsorption syndromes, hyperparathyroidism, Cushing's disease, and tumors ((Placeholder-11-1))."
+          ]
+        },
+        {
+          "header": "Male Osteoporosis",
+          "points": [
+            "Morbidity and mortality are much higher in men than women with osteoporotic fractures.",
+            "Secondary causes are more common in men, accounting for 50%.",
+            "Androgens may inhibit bone resorption.",
+            "The average onset is 10 years later than in women, and men are often asymptomatic at onset ((Placeholder-12-1)) ((Placeholder-12-2))."
+          ]
+        },
+        {
+          "header": "Mortality After Major Osteoporotic Fractures",
+          "points": [
+            "Age-standardized mortality ratios after proximal femur fractures are 2.2 in women and 3.2 in men.",
+            "For vertebral fractures, the ratios are 1.7 in women and 2.4 in men.",
+            "For other major fractures, the ratios are 1.9 in women and 2.2 in men.",
+            "For other minor fractures, the ratios are 0.8 in women and 1.5 in men ((Placeholder-13-1))."
+          ]
+        },
+        {
+          "header": "Treatment to Prevent Fractures",
+          "points": [
+            "Exercise includes muscle strengthening and gait training.",
+            "Orthotics such as supporters can be used.",
+            "Calcium (1000-1200 mg/day) and Vitamin D (600-800 IU/day) are important.",
+            "Antiresorptives include Estrogens/HRT, SERMs, Calcitonin, Bisphosphonates, and Denosumab.",
+            "Anabolic agents include PTH.",
+            "Strontium ranelate has dual action, increasing new bone deposition by osteoblasts and reducing osteoclast resorption ((Placeholder-14-1)) ((Placeholder-15-1)) ((Placeholder-16-1)) ((Placeholder-17-1)) ((Placeholder-18-1)) ((Placeholder-19-1))."
+          ]
+        },
+        {
+          "header": "Common Fractures in Elderly Osteoporotic Patients",
+          "points": [
+            "Hip Fractures: femoral neck, intertrochanteric, and subtrochanteric fractures.",
+            "Other common fractures include ankle fractures, proximal humerus fracture, distal radius fractures, and vertebral compression fractures ((Placeholder-20-1))."
+          ]
+        },
+        {
+          "header": "Challenges in Treating Osteoporotic Fractures",
+          "points": [
+            "Fractures in elderly osteoporotic patients present a challenge to orthopedic surgeons.",
+            "The goal of treatment is to restore the pre-injury level of function.",
+            "Fracture complications can disable elderly patients, affecting normal daily activities and independent mobilization ((Placeholder-21-1)) ((Placeholder-21-2)) ((Placeholder-21-3)) ((Placeholder-21-4)) ((Placeholder-21-5)) ((Placeholder-21-6))."
+          ]
+        },
+        {
+          "header": "Osteopenia Complicating Fracture Treatment",
+          "points": [
+            "Osteopenia complicates both fracture treatment and healing.",
+            "Internal fixation is compromised due to poor screw purchase and increased risk of screw pull-out; locking screw-plate fixation and PMMA with endoprosthesis may be used.",
+            "There is an increased risk of non-union, and bone augmentation (bone graft, substitutes) may be indicated ((Placeholder-22-1)) ((Placeholder-22-2)) ((Placeholder-22-3)) ((Placeholder-22-4))."
+          ]
+        },
+        {
+          "header": "Pre-injury Status Assessment",
+          "points": [
+            "Assessment includes medical history (pre-existing cardiac and pulmonary disease, diabetes), cognitive status (Alzheimer's, CVA, Parkinson's, senile dementia), and functional history (ambulatory status: community, household, non-functional, non-ambulator; living arrangements) ((Placeholder-23-1)) ((Placeholder-24-1))."
+          ]
+        },
+        {
+          "header": "Hip Fractures: Epidemiology and Evaluation",
+          "points": [
+            "Hip fracture incidence increases after age 50, with a female:male ratio of 2:1.",
+            "Femoral neck and intertrochanteric fractures are seen with equal frequency.",
+            "Radiographic evaluation includes anterior-posterior view, cross-table lateral, and internal rotation view to delineate the fracture pattern ((Placeholder-25-1)) ((Placeholder-25-2)) ((Placeholder-25-3)) ((Placeholder-26-1)) ((Placeholder-26-2)) ((Placeholder-26-3))."
+          ]
+        },
+        {
+          "header": "Hip Fractures: Management",
+          "points": [
+            "Prompt operative treatment is recommended; delays of >24-48 hours increase mortality rates, but medical optimization should be balanced with surgical urgency.",
+            "Early mobilization is crucial to decrease the incidence of decubitus ulcers, UTIs, atelectasis, and respiratory infections.",
+            "DVT prophylaxis should be administered.",
+            "Operative treatment options include prosthesis and stabilization with plate-screw systems (DHS, DCS), intramedullary nails, or cannulated screws ((Placeholder-27-1)) ((Placeholder-27-2)) ((Placeholder-27-3)) ((Placeholder-27-4)) ((Placeholder-28-1)) ((Placeholder-28-2)) ((Placeholder-28-3)) ((Placeholder-28-4)) ((Placeholder-28-5))."
+          ]
+        },
+        {
+          "header": "Ankle Fractures in the Elderly",
+          "points": [
+            "Ankle fractures are common in the elderly, with a significant increase in incidence and severity over the last 20 years.",
+            "Low energy injuries occur due to ankle torsion, reflecting the relative strength of ligaments compared to osteopenic bone ((Placeholder-29-1)) ((Placeholder-29-2)) ((Placeholder-29-3))."
+          ]
+        },
+        {
+          "header": "Ankle Fractures: Presentation and Evaluation",
+          "points": [
+            "Presentation follows twisting of the foot relative to the lower tibia; patients are unable to bear weight and may exhibit ecchymosis and deformity.",
+            "A careful neurovascular exam is mandatory.",
+            "Radiographic evaluation includes an ankle trauma series (AP, Lateral, Mortise views) and examination of the entire fibula length ((Placeholder-30-1)) ((Placeholder-30-2)) ((Placeholder-30-3)) ((Placeholder-31-1)) ((Placeholder-31-2)) ((Placeholder-31-3)) ((Placeholder-31-4))."
+          ]
+        },
+        {
+          "header": "Ankle Fractures: Treatment",
+          "points": [
+            "Conservative treatment is used for non-displaced fractures or those reduced in a closed manner.",
+            "Operative treatment is indicated for displaced fractures ((Placeholder-32-1)) ((Placeholder-32-2)) ((Placeholder-32-3)) ((Placeholder-32-4)) ((Placeholder-32-5))."
+          ]
+        },
+        {
+          "header": "Proximal Humeral Fractures: Background and Epidemiology",
+          "points": [
+            "Proximal humeral fractures are very common in geriatric populations, with higher incidence in women.",
+            "They result from low energy trauma.",
+            "The goal is to restore a pain-free range of shoulder motion.",
+            "Incidence rises dramatically beyond the fifth decade in women, with 71% of fractures occurring in patients over 60.",
+            "These fractures are associated with poor neuromuscular control and decreased bone mineral density ((Placeholder-33-1)) ((Placeholder-33-2)) ((Placeholder-33-3)) ((Placeholder-34-1)) ((Placeholder-34-2))."
+          ]
+        },
+        {
+          "header": "Proximal Humeral Fractures: Radiographic Evaluation and Treatment",
+          "points": [
+            "Radiographic evaluation includes AP, scapula Y, axillary views; CT scans can be helpful ((Placeholder-35-1)) ((Placeholder-35-2)) ((Placeholder-35-3)) ((Placeholder-35-4)).",
+            "Treatment options include conservative management with a Velpeau bandage or operative treatment with prosthesis or stabilization ((Placeholder-36-1)) ((Placeholder-36-2)) ((Placeholder-36-3)) ((Placeholder-36-4))."
+          ]
+        },
+        {
+          "header": "Distal Radius Fractures: Background and Epidemiology",
+          "points": [
+            "Distal radius fractures are very common in the elderly, resulting from low energy injuries.",
+            "Incidence increases with age, particularly in women, and is associated with dementia, poor eyesight, and decreased coordination.",
+            "The incidence is increasing, especially in women, with a peak incidence in females aged 60-70.",
+            "The lifetime risk is 15%, most frequently caused by a fall on an outstretched arm; decreased bone mineral density is a contributing factor ((Placeholder-37-1)) ((Placeholder-37-2)) ((Placeholder-38-1)) ((Placeholder-38-2))."
+          ]
+        },
+        {
+          "header": "Distal Radius Fractures: Radiographic Evaluation and Treatment",
+          "points": [
+            "Radiographic evaluation includes PA, lateral, and contralateral wrist views to assess deformity and ulnar variance; CT can evaluate comminution and intraarticular extension ((Placeholder-39-1)) ((Placeholder-39-2)) ((Placeholder-39-3)).",
+            "Non-displaced fractures may be immobilized for 6 weeks.",
+            "Displaced fractures require reduction to restore radial length, inclination, and tilt; operative management is considered if acceptable reduction cannot be obtained ((Placeholder-40-1)) ((Placeholder-40-2)) ((Placeholder-40-3)) ((Placeholder-40-4))."
+          ]
+        },
+        {
+          "header": "Vertebral Compression Fractures: Background and Epidemiology",
+          "points": [
+            "Nearly all post-menopausal women over age 70 have sustained a vertebral compression fracture, usually occurring between T8 and L2.",
+            "Kyphosis and scoliosis may develop and are markers for osteoporosis.",
+            "These fractures are more common than hip fractures (117/100,000) and twice as common in females; the lifetime risk for a 50-year-old white female is 32% ((Placeholder-41-1)) ((Placeholder-41-2)) ((Placeholder-41-3)) ((Placeholder-41-4)) ((Placeholder-42-1)) ((Placeholder-42-2)) ((Placeholder-42-3))."
+          ]
+        },
+        {
+          "header": "Vertebral Compression Fractures: Presentation and Treatment",
+          "points": [
+            "They present with acute back pain, tenderness to palpation, and rarely a neurologic deficit ((Placeholder-43-1)) ((Placeholder-43-2)) ((Placeholder-43-3)) ((Placeholder-43-4)) ((Placeholder-43-5)). ((Placeholder-46-4)) ((Placeholder-46-5)) ((Placeholder-47-4))",
+            "Simple osteoporotic vertebral compression fractures are treated non-operatively and symptomatically.",
+            "Prolonged bed rest should be avoided; progressive ambulation should be started early, and back exercises initiated after a few weeks.",
+            "A corset may be helpful.",
+            "Surgical treatment options include kyphoplasty and vertebroplasty ((Placeholder-44-1)) ((Placeholder-44-2)) ((Placeholder-44-3)). ((Placeholder-46-3)) ((Placeholder-47-3))"
+          ]
+        },
+        {
+          "header": "Key Takeaways for Osteoporosis",
+          "points": [
+            "Osteoporosis is a significant health issue characterized by low bone mass and increased fracture risk.",
+            "Risk factors, screening methods (DEXA, FRAX), and various treatment options are crucial for prevention and management ((Placeholder-45-1)) ((Placeholder-45-2)). ((Placeholder-45-1)) ((Placeholder-45-2)) ((Placeholder-46-1)) ((Placeholder-46-2)) ((Placeholder-47-1)) ((Placeholder-47-2))"
+          ]
+        },
+        [
+          {
+            "header": "Terminology",
+            "points": [
+              "[TYPE:Disease]Osteoporosis[/TYPE]: A condition characterized by low bone mass and deterioration of bone tissue, leading to increased fragility and fracture risk.",
+              "[TYPE:Measurement]BMD T-score[/TYPE]: A measurement used to diagnose osteoporosis, with a score of -2.5 or less indicating the condition.",
+              "[TYPE:Concept]Bone Quality[/TYPE]: Refers to the structural and material properties of bone that influence its strength and resistance to fracture.",
+              "[TYPE:Concept]Fracture Risk[/TYPE]: The likelihood of experiencing a bone fracture, influenced by various factors including bone mass, structure, and fall risk.",
+              "[TYPE:Process]Bone Turnover[/TYPE]: The continuous process of bone resorption by osteoclasts and bone formation by osteoblasts.",
+              "[TYPE:Process]Resorption[/TYPE]: The breakdown and removal of bone tissue by osteoclasts.",
+              "[TYPE:Process]Formation[/TYPE]: The process by which new bone tissue is created by osteoblasts.",
+              "[TYPE:Concept]Bone Mass[/TYPE]: The total amount of bone tissue in the skeleton, which peaks in mid-adulthood and declines with age.",
+              "[TYPE:Screening Method]DEXA[/TYPE]: Dual-energy X-ray absorptiometry, a common method for measuring bone mineral density.",
+              "[TYPE:Anatomy]Femoral Neck[/TYPE]: The part of the femur (thigh bone) that connects to the hip joint; its BMD is a key predictor of hip fractures.",
+              "[TYPE:Tool]FRAX Tool[/TYPE]: A diagnostic tool that assesses the 10-year probability of bone fracture risk using clinical risk factors and BMD.",
+              "[TYPE:Disease]Senile Osteoporosis[/TYPE]: Osteoporosis commonly occurring in the elderly, often associated with age-related bone loss.",
+              "[TYPE:Concept]Secondary Causes[/TYPE]: Underlying medical conditions or factors that contribute to osteoporosis, more common in men.",
+              "[TYPE:Fracture Type]Proximal Femur Fracture[/TYPE]: A fracture occurring in the upper part of the thigh bone, including the hip.",
+              "[TYPE:Fracture Type]Vertebral Fracture[/TYPE]: A fracture of one or more vertebrae in the spine.",
+              "[TYPE:Treatment]Antiresorptives[/TYPE]: Medications that reduce the rate of bone resorption, used in osteoporosis treatment.",
+              "[TYPE:Treatment]Anabolic Agents[/TYPE]: Medications that promote bone formation, used in osteoporosis treatment.",
+              "[TYPE:Fracture Type]Distal Radius Fracture[/TYPE]: A fracture of the radius bone near the wrist.",
+              "[TYPE:Procedure]Vertebroplasty[/TYPE]: A minimally invasive surgical procedure to stabilize vertebral compression fractures.",
+              "[TYPE:Procedure]Kyphoplasty[/TYPE]: A minimally invasive surgical procedure similar to vertebroplasty, which also restores vertebral height."
+            ]
+          }
+        ]
+      ]
+    }
+  },
+  "c7825a60-cade-453d-b007-fbfedba28168": {
+    "message": "Upload Successful",
+    "filename": "DDH.pdf",
+    "exec_time": "31 slides summarized in 23.4s",
+    "Content": {
+      "text": [
+        {
+          "header": "Developmental Dysplasia of the Hip (DDH)",
+          "points": [
+            "DDH is the preferred term, encompassing teratogenic hips, subluxation, dislocation (usually posterosuperior, reducible vs. irreducible), and dysplasia.",
+            "Treatment is easier if started before 3 months of age, as bony changes are less developed.",
+            "((Placeholder-1-1))",
+            "((Placeholder-1-2))",
+            "((Placeholder-1-3))"
+          ]
+        },
+        {
+          "header": "Pathoanatomy: Bony Changes",
+          "points": [
+            "Ranges from mild dysplasia to frank dislocation.",
+            "Shallow acetabulum, typically on the acetabular side.",
+            "Femoral anteversion occurs.",
+            "Early treatment is easier because these changes have not yet occurred."
+          ]
+        },
+        {
+          "header": "Pathoanatomy: Soft Tissue Changes (Intraarticular)",
+          "points": [
+            "Usually secondary to prolonged subluxation or dislocation.",
+            "Labrum: Inverted and adherent to the capsule, increasing the risk of avascular necrosis after closed reduction.",
+            "Ligamentum teres: Hypertrophied and lengthened.",
+            "Pulvinar: Fibrofatty tissue migrating into the acetabulum, filling the space.",
+            "Transverse acetabular ligament: Contracted.",
+            "Limbus: Fibrous tissue formed from capsular tissue interposed between the everted labrum and acetabular rim."
+          ]
+        },
+        {
+          "header": "Pathoanatomy: Soft Tissue Changes (Extraarticular)",
+          "points": [
+            "Tight adductors (adductor longus).",
+            "Iliopsoas.",
+            "The transverse acetabular ligament holds the acetabular notch; prolonged dislocation can cause resistance to femur reduction."
+          ]
+        },
+        {
+          "header": "Obstacles to Reduction",
+          "points": [
+            "Extraarticular: Tight iliopsoas and adductors.",
+            "Intraarticular: Labrum, ligamentum teres, transverse acetabular ligament, pulvinar, redundant capsule (hourglass appearance), and +/- limbus.",
+            "((Placeholder-6-1))"
+          ]
+        },
+        {
+          "header": "Etiology and Epidemiology",
+          "points": [
+            "Multifactorial causes include genetics and syndromes (Ehler’s Danlos, Arthrogryposis, Larsen’s syndrome), intrauterine environmental factors (teratogens, positioning due to oligohydramnios), and neurologic disorders (Spina Bifida)."
+          ]
+        },
+        {
+          "header": "Risk Factors",
+          "points": [
+            "Occurs in 1/1,000 births with dislocation; subluxation or dysplasia is more common.",
+            "80% are female.",
+            "Risk factors include being the firstborn, family history, intermarriage, oligohydramnios, and torticollis or vertebral deformities.",
+            "Newborns can normalize within weeks, so screening at 6 weeks is recommended."
+          ]
+        },
+        {
+          "header": "Diagnosis: Newborn Screening",
+          "points": [
+            "Ortolani’s and Barlow’s maneuvers are performed with a thorough history and physical examination.",
+            "A warm, quiet environment and removal of the diaper are necessary.",
+            "A head-to-toe exam detects associated conditions like Torticollis and Ligamentous Laxity.",
+            "A baseline neuro and spine exam is performed.",
+            "((Placeholder-10-1))",
+            "((Placeholder-10-2))",
+            "((Placeholder-10-3))"
+          ]
+        },
+        {
+          "header": "Diagnosis: Key Physical Findings",
+          "points": [
+            "Asymmetry.",
+            "Limb length discrepancy (Galeazzi sign).",
+            "Limited abduction range of motion.",
+            "Skin folds.",
+            "Limp.",
+            "Waddling gait / hyperlordosis in bilateral involvement.",
+            "Dysplasia may not be discovered until 30-40 years old.",
+            "Reduction can be difficult after 3 months due to secondary changes."
+          ]
+        },
+        {
+          "header": "Ortolani’s Maneuver",
+          "points": [
+            "Tests become negative after 3 months of age.",
+            "((Placeholder-11-1))"
+          ]
+        },
+        {
+          "header": "Barlow’s Maneuver",
+          "points": [
+            "((Placeholder-12-1))"
+          ]
+        },
+        {
+          "header": "Diagnosis: Further Screening and Referral",
+          "points": [
+            "Some cases are missed; at-risk groups require further screening.",
+            "The AAP recommends further imaging (e.g., US) if the exam is inconclusive AND the patient has a first-degree relative, is female, was breech, or has a positive provocative maneuver (Ortolani or Barlow).",
+            "Referral to an Orthopedist is indicated."
+          ]
+        },
+        {
+          "header": "Imaging Modalities",
+          "points": [
+            "Ultrasound (US): Operator dependent.",
+            "X-rays: Used to assess femoral head ossification center (appears 4-7 months).",
+            "CT.",
+            "MRI.",
+            "Arthrograms.",
+            "Open vs. closed reduction.",
+            "Before 3 months, the femoral head is still cartilage; after 6 months, ossification occurs."
+          ]
+        },
+        {
+          "header": "Ultrasound for DDH",
+          "points": [
+            "Introduced in 1978 for early evaluation.",
+            "Graf's technique is considered operator independent.",
+            "Useful for confirming subluxation, identifying dysplasia of the cartilaginous acetabulum, and documenting reducibility.",
+            "Proximal femoral ossification center may interfere with assessment.",
+            "((Placeholder-16-1))",
+            "((Placeholder-16-2))"
+          ]
+        },
+        {
+          "header": "Ultrasound Measurements",
+          "points": [
+            "Graf’s alpha angle >60° indicates a normal hip.",
+            "((Placeholder-17-1))"
+          ]
+        },
+        {
+          "header": "Radiographic Measurements",
+          "points": [
+            "Acetabular index: Normal < 30°.",
+            "((Placeholder-18-1))"
+          ]
+        },
+        {
+          "header": "Radiographs Summary",
+          "points": [
+            "Femoral head ossification appears between 4-7 months.",
+            "Key lines include Shenton’s line, Perkin’s line, and Hilgenreiner’s line.",
+            "The inferomedial quadrant is assessed.",
+            "Acetabular index is normally less than 30°."
+          ]
+        },
+        {
+          "header": "Treatment Options Considerations",
+          "points": [
+            "Age of patient at presentation.",
+            "Family factors.",
+            "Reducibility of the hip.",
+            "Stability after reduction.",
+            "Degree of acetabular dysplasia.",
+            "((Placeholder-21-1))"
+          ]
+        },
+        {
+          "header": "Treatment: Birth to Six Months (Pavlik Harness)",
+          "points": [
+            "The Pavlik harness (1944) is highly successful (20-80%) when used by experienced staff.",
+            "It allows free movement within the confines of restraints.",
+            "Posterior straps prevent adduction, not abduction; abduction braces limit hip extension.",
+            "Indications include a fully reducible hip, the child not attempting to stand, and the family's commitment to close, regular follow-up (every 1-2 weeks) for imaging and adjustments.",
+            "Duration of use is the child's age at hip stability plus 3 months.",
+            "((Placeholder-22-1))"
+          ]
+        },
+        {
+          "header": "Pavlik Harness Complications",
+          "points": [
+            "Avascular necrosis (AVN) can occur from forced hip abduction.",
+            "The 'safe zone' (defined by abduction/adduction and flexion/extension angles) should be maintained to avoid AVN.",
+            "Femoral nerve palsy and hyperflexion can also occur.",
+            "Compression of the angle between dislocation and reduction can increase the safe zone."
+          ]
+        },
+        {
+          "header": "Treatment: > 6 Months",
+          "points": [
+            "Closed reduction with Spica casting is used if the Pavlik harness fails after 3 weeks.",
+            "((Placeholder-25-1))",
+            "((Placeholder-25-2))"
+          ]
+        },
+        {
+          "header": "Treatment: > 6 Months (Reduction Techniques)",
+          "points": [
+            "Closed reduction requires general anesthesia, possibly an arthrogram, and +/- adductor tenotomy to achieve the safe zone and avoid AVN.",
+            "Open reduction is performed if concentric reduction is not possible, often necessary for teratogenic hips in this age group.",
+            "((Placeholder-26-1))"
+          ]
+        },
+        {
+          "header": "Treatment: > 6 Months (Post-Reduction Management)",
+          "points": [
+            "Closed reduction +/- adductor tenotomy is followed by Spica casting in a human position (100 degrees flexion, 55 degrees abduction) for 3 months.",
+            "An abduction orthosis is worn for 4 weeks full-time, then 4 weeks at night.",
+            "Open reduction is performed if closed reduction fails."
+          ]
+        },
+        {
+          "header": "Femoral Shortening",
+          "points": [
+            "((Placeholder-28-1))"
+          ]
+        },
+        {
+          "header": "Pelvic Osteotomy",
+          "points": [
+            "((Placeholder-29-1))"
+          ]
+        },
+        {
+          "header": "Summary of Treatment by Age",
+          "points": [
+            "Best treated before 6 weeks of age.",
+            "0-6 months: Pavlik harness.",
+            "6-18 months: Closed or open reduction and Spica cast.",
+            "18-48 months: Closed or open reduction +/- osteotomies."
+          ]
+        },
+        [
+          {
+            "header": "Terminology",
+            "points": [
+              "[TYPE:Condition]Developmental Dysplasia of the Hip (DDH)[/TYPE]: A condition encompassing teratogenic hips, subluxation, dislocation, and dysplasia.",
+              "[TYPE:Concept]Subluxation[/TYPE]: Partial dislocation of a joint.",
+              "[TYPE:Concept]Dislocation[/TYPE]: Complete displacement of a bone from its joint.",
+              "[TYPE:Anatomy]Acetabulum[/TYPE]: The socket in the hip bone that receives the head of the femur.",
+              "[TYPE:Anatomy]Femoral head[/TYPE]: The rounded upper end of the femur that articulates with the acetabulum.",
+              "[TYPE:Anatomy]Labrum[/TYPE]: A ring of cartilage that surrounds the acetabulum, deepening the socket.",
+              "[TYPE:Anatomy]Ligamentum teres[/TYPE]: A ligament within the hip joint that connects the femoral head to the acetabulum.",
+              "[TYPE:Anatomy]Pulvinar[/TYPE]: Fibrofatty tissue that can migrate into the acetabulum in DDH.",
+              "[TYPE:Anatomy]Transverse acetabular ligament[/TYPE]: A ligament that spans the acetabular notch.",
+              "[TYPE:Anatomy]Limbus[/TYPE]: Fibrous tissue formed from capsular tissue in DDH.",
+              "[TYPE:Anatomy]Adductors[/TYPE]: Muscles that draw a limb toward the midline of the body.",
+              "[TYPE:Anatomy]Iliopsoas[/TYPE]: A muscle group that flexes the hip.",
+              "[TYPE:Concept]Avascular necrosis (AVN)[/TYPE]: Death of bone tissue due to a lack of blood supply.",
+              "[TYPE:Procedure]Closed reduction[/TYPE]: Manipulation of a dislocated joint back into its normal position without surgery.",
+              "[TYPE:Procedure]Open reduction[/TYPE]: Surgical realignment of a dislocated joint.",
+              "[TYPE:Tool]Pavlik harness[/TYPE]: A device used to treat DDH in infants by maintaining hip flexion and abduction.",
+              "[TYPE:Tool]Spica cast[/TYPE]: A type of cast that immobilizes a limb and part of the torso, often used after hip reduction.",
+              "[TYPE:Measurement]Graf's alpha angle[/TYPE]: A measurement used in ultrasound to assess the stability of the hip joint.",
+              "[TYPE:Measurement]Acetabular index[/TYPE]: A radiographic measurement of the acetabulum's angle.",
+              "[TYPE:Concept]Shenton's line[/TYPE]: A radiographic line used to assess the alignment of the femoral head and acetabulum."
+            ]
+          }
+        ]
+      ]
+    }
+  },
+  "1c3a6d1f-dd91-4082-b5af-6d271f9780f5": {
+    "message": "Upload Successful",
+    "filename": "ACNE VULGARIS-ROZASEA.pdf",
+    "exec_time": "53 slides summarized in 22.0s",
+    "Content": {
+      "text": [
+        {
+          "header": "Acne Vulgaris Definition and Sequelae",
+          "points": [
+            "Acne vulgaris is a self-limited disorder of the pilosebaceous unit primarily seen in adolescents.",
+            "It presents with a pleomorphic array of lesions: comedones, papules, pustules, and nodules.",
+            "While self-limiting, its sequelae can be lifelong, including pitted or hypertrophic scar formation.",
+            "((Placeholder-1-1))"
+          ]
+        },
+        {
+          "header": "Acne Vulgaris Epidemiology",
+          "points": [
+            "Acne is common, often termed physiologic, and heralds the onset of puberty.",
+            "In girls, acne may precede menarche by over a year, with comedones being the predominant lesions in very young patients.",
+            "Acne prevalence peaks in mid-to-late teenage years, affecting over 85% of adolescents, and then steadily decreases."
+          ]
+        },
+        {
+          "header": "Acne Vulgaris Etiology and Pathogenesis",
+          "points": [
+            "The pathogenesis of acne is multifaceted, involving four basic steps: follicular epidermal hyperproliferation, excess sebum production, inflammation, and the presence and activity of Propionibacterium acnes.",
+            "Follicular epidermal hyperproliferation leads to the formation of a microcomedo due to hyperkeratosis and increased keratinocyte cohesion in the infundibulum.",
+            "Excess cells and tackiness create a plug in the follicular ostium, causing accumulation of keratin, sebum, and bacteria.",
+            "These packed concretions lead to dilation of the upper hair follicle, forming a microcomedo.",
+            "Dihydrotestosterone (DHT), a potent androgen, may play a role in acne.",
+            "((Placeholder-6-1))"
+          ]
+        },
+        {
+          "header": "Acne Vulgaris Cutaneous Lesions Locations",
+          "points": [
+            "Lesions commonly appear on the face, back, chest, and shoulders."
+          ]
+        },
+        {
+          "header": "Acne Vulgaris Cutaneous Lesions Types",
+          "points": [
+            "Lesions can be noninflammatory (comedos: closed/whiteheads, open/blackheads) or inflammatory.",
+            "Open comedones appear as flat or slightly raised lesions with a dark, impacted follicular center.",
+            "Closed comedones are pale, slightly elevated small papules without a visible orifice.",
+            "Inflammatory lesions range from small papules with red borders to pustules and large, tender, fluctuant nodules.",
+            "Severe cases of inflammatory acne, previously termed nodulocystic, are now described as severe nodular acne, as true cysts are rare.",
+            "The appearance as a papule, pustule, or nodule depends on the extent and location of the inflammatory infiltrate in the dermis.",
+            "((Placeholder-9-1)) ((Placeholder-9-2))",
+            "((Placeholder-10-1))",
+            "((Placeholder-11-1))",
+            "((Placeholder-12-1))",
+            "((Placeholder-14-1))",
+            "((Placeholder-15-1))",
+            "((Placeholder-16-1))",
+            "Patulous ostia of infundibula, inflamed papules, pustules, and scars ((Placeholder-17-1))"
+          ]
+        },
+        {
+          "header": "Acne Vulgaris Scarring",
+          "points": [
+            "Scarring is a potential complication of acne.",
+            "Four general types of acne scars exist: ice pick (narrow, deep, tapering), rolling (shallow, wide, undulating), boxcar (wide, sharply demarcated), and hypertrophic (rare, especially on the trunk)."
+          ]
+        },
+        {
+          "header": "Acne Vulgaris Associated Conditions",
+          "points": [
+            "Acne vulgaris is usually an isolated cutaneous finding, except in cases of hyperandrogenism, which may present with hirsutism, precocious puberty, and other signs of androgen excess."
+          ]
+        },
+        {
+          "header": "Acne Vulgaris Laboratory Tests",
+          "points": [
+            "Elevated serum androgen levels may be found in severe cystic acne or acne associated with endocrine conditions like congenital adrenal hyperplasia, ovarian or adrenal tumors, and polycystic ovarian disease.",
+            "In most acne patients, serum androgens are within the normal range.",
+            "Specific tests include serum DHEAS, total testosterone, free testosterone, LH/FSH ratio, and serum 17-hydroxyprogesterone to identify adrenal sources of androgens when other sources are unclear.",
+            "Testing should be performed before or during the menstrual period, not midcycle."
+          ]
+        },
+        {
+          "header": "Acne Vulgaris Differential Diagnosis",
+          "points": [
+            "Conditions to differentiate include Milia, Sebaceous hyperplasia, Dilated pore of Winer (Favre–Racouchot syndrome), Rosacea, Perioral dermatitis, Neonatal acne, Miliaria rubra, Pseudofolliculitis barbae, Acne keloidalis nuchae, Keratosis pilaris, and Neurotic excoriations/factitial."
+          ]
+        },
+        {
+          "header": "Acne Vulgaris Complications",
+          "points": [
+            "Complications include transient macular erythema, postinflammatory hyperpigmentation (especially in darker skin types), scarring, and psychiatric disturbances."
+          ]
+        },
+        {
+          "header": "Acne Vulgaris Prognosis and Clinical Course",
+          "points": [
+            "Acne can start as early as 6-8 years of age or appear later in life (20s or beyond).",
+            "Most patients clear by their early twenties, but some experience acne into their thirties or forties.",
+            "In women, acne often fluctuates with the menstrual cycle, flaring just before menstruation, though this is not due to increased sebaceous gland activity in the luteal phase.",
+            "Prepubescent females with comedonal acne and those with high DHEAS levels are predictors of severe or long-standing nodulocystic acne."
+          ]
+        },
+        {
+          "header": "Acne Vulgaris Treatment",
+          "points": [
+            "Treatment involves cleansing and topical agents such as Sulfur/Sodium Sulfacetamide/Resorcinol, Salicylic Acid, Azelaic Acid, Benzoyl Peroxide, topical antibiotics, and retinoids.",
+            "Systemic therapy includes antibiotics (Tetracyclines, Macrolides, Trimethoprim–Sulfamethoxazole, Cephalexin, Clindamycin, Dapsone) and hormonal therapy (Oral Contraceptives, Glucocorticoids, Antiandrogens, Isotretinoin).",
+            "Benzoyl Peroxide is a topical treatment ((Placeholder-25-1))."
+          ]
+        },
+        {
+          "header": "Acne Vulgaris Diet",
+          "points": [
+            "While milk, high-glycemic index foods, chocolate, sweets, and fatty foods are often discussed, there is no evidence to support the value of eliminating these foods."
+          ]
+        },
+        {
+          "header": "Acne Vulgaris Variants",
+          "points": [
+            "Variants include Neonatal acne, Infantile acne, Acne conglobata, Acne fulminans, SAPHO Syndrome, PAPA Syndrome, Acne Excoriee des Jeunes Filles, and Acne Mechanica."
+          ]
+        },
+        {
+          "header": "Rosacea Definition and Distribution",
+          "points": [
+            "Rosacea is characterized by persistent erythema of the central face, typically affecting the nose, cheeks, chin, and forehead.",
+            "Primary features include flushing, papules, pustules, and telangiectases.",
+            "Secondary features can include facial burning or stinging, edema, plaques, dryness, phyma, peripheral flushing, and ocular manifestations.",
+            "Erythema in peripheral locations (scalp, ears, lateral face, neck, chest) can also occur."
+          ]
+        },
+        {
+          "header": "Rosacea Prevalence and Etiology",
+          "points": [
+            "The prevalence of rosacea is unknown, occurring mostly in fair-skinned populations.",
+            "Contributing factors may include facial vascular reactivity, dermal connective tissue structure, matrix composition, pilosebaceous structure, microbial colonization, or a combination of factors altering the cutaneous response to triggers.",
+            "Sun damage is considered a contributing factor, with solar elastosis often superimposed on rosacea histology."
+          ]
+        },
+        {
+          "header": "Rosacea Triggers",
+          "points": [
+            "Common triggers include hot or cold temperatures, sunlight, wind, hot drinks, exercise, spicy food, alcohol, emotions, cosmetics, topical irritants, and medications that promote flushing.",
+            "Menopausal flushing is also a trigger."
+          ]
+        },
+        {
+          "header": "Rosacea Clinical Features: Erythematotelangiectatic Rosacea (ETR)",
+          "points": [
+            "Characterized by persistent facial erythema and flushing, telangiectases, central face edema, burning and stinging, and roughness or scaling.",
+            "Severity is classified as mild, moderate, or severe.",
+            "Telangiectases, papules, and zones of erythema on the scalp, forehead, nose, malar regions, and cheeks ((Placeholder-36-1)).",
+            "Telangiectases, papules, and zones of erythema on the forehead, malar regions, and nose especially ((Placeholder-37-1))."
+          ]
+        },
+        {
+          "header": "Rosacea Clinical Features: Papulopustular Subtype",
+          "points": [
+            "Presents with persistent, central-face erythema accompanied by papules and pustules, predominantly in convex areas.",
+            "Distinguished by mild, moderate, and severe forms.",
+            "Papules and pustules resembling \"perioral dermatitis\" and \"periocular dermatitis\" are seen in rosacea ((Placeholder-39-1))."
+          ]
+        },
+        {
+          "header": "Rosacea Clinical Features: Phymatous Rosacea",
+          "points": [
+            "Characterized by patulous follicular orifices, thickened skin, nodularities, and irregular surface contours in convex areas.",
+            "Subtypes are mild, moderate, and severe.",
+            "Phyma most often occurs on the nose (rhinophyma), chin (gnathophyma), forehead (metophyma), eyelids (blepharophyma), and ears (otophyma).",
+            "Papules, papulopustules, and nodules on an erythematous base with striking periorbital edema (persistent edema of rosacea). Rhinophyma and analogous changes on the forehead (metophyma) are present ((Placeholder-41-1)).",
+            "Rhinophyma ((Placeholder-42-1))."
+          ]
+        },
+        {
+          "header": "Rosacea Ocular Involvement",
+          "points": [
+            "Ocular involvement can include Blepharitis, Conjunctivitis, Iritis, Scleritis, Hypopyon, and Keratitis.",
+            "Blepharitis is the most common feature, presenting with eyelid margin erythema, scale, and crust, along with chalazia and staphylococcal infections due to underlying meibomian gland dysfunction.",
+            "Symptoms may include photophobia, pain, burning, itching, and foreign body sensation.",
+            "Severe cases of rosacea keratitis can lead to vision loss.",
+            "Ocular involvement ((Placeholder-45-1))."
+          ]
+        },
+        {
+          "header": "Rosacea Clinical Features: Granulomatous Rosacea",
+          "points": [
+            "This is considered the only true rosacea variant.",
+            "Histologically characterized by granuloma formation.",
+            "Presents as monomorphic yellow-brown or red papules or nodules located on the cheeks and periorificial facial skin ((Placeholder-48-1))."
+          ]
+        },
+        {
+          "header": "Rosacea Differential Diagnosis",
+          "points": [
+            "Conditions to differentiate include Polycythemia vera, connective tissue disorders (lupus erythematosus, dermatomyositis), carcinoid syndrome, mastocytosis, neurologic causes of flushing (brain tumors, spinal cord lesions, orthostatic hypotension, migraine headaches, Parkinson disease), and medication-induced flushing (vasodilators, calcium channel blockers, nicotinic acid, morphine).",
+            "Cutaneous conditions mimicking rosacea include topical steroid-induced acneiform eruption, acne vulgaris, perioral dermatitis, inflammatory keratosis pilaris, chronic photodamage.",
+            "The primary differentiator between acne vulgaris and rosacea is the presence of open and closed comedones in acne.",
+            "Rosacea fulminans (pyoderma faciale, rosacea conglobata) occurs mainly in women in their 20s, with sudden onset of confluent papules, pustules, nodules, and draining sinuses on the chin, cheeks, and forehead against a background of diffuse facial erythema.",
+            "Facial and extrafacial rosacea with innumerable papules, erosions, ulcers, and crusts (rosacea fulminans) ((Placeholder-52-1))."
+          ]
+        },
+        {
+          "header": "Rosacea Therapy",
+          "points": [
+            "Patient assessment includes physical, psychological, social, occupational aspects, and response to therapy.",
+            "Triggers should be avoided, and photoprotection is recommended.",
+            "Topical sensitivity should be assessed.",
+            "Therapeutics vary by subtype:",
+            "ETR: Mild topical antimicrobials, low-dose isotretinoin, oral tetracyclines (or erythromycins or metronidazole), vascular laser, intense pulsed light, topical retinoid maintenance (Tretinoin cream plus emollient).",
+            "Papulopustular: Topical antimicrobials, oral antimicrobials (as for ETR), low to mild dose isotretinoin, vascular laser or intense pulsed light in some cases, topical retinoid maintenance.",
+            "Phymatous: Mild to high dose isotretinoin, spironolactone, surgical debulking and contouring, topical and/or oral antimicrobials for inflammatory lesions, topical retinoid maintenance.",
+            "Ocular: Ophthalmology assessment, gentle non-medicated cleanser, gentle S/S cleanser, S/S 10% ophthalmic ointment, oral tetracyclines.",
+            "Physician global subtype assessment is crucial."
+          ]
+        },
+        {
+          "header": "Key Concepts",
+          "points": [
+            "Acne Vulgaris Definition and Sequelae",
+            "Acne Vulgaris Epidemiology",
+            "Acne Vulgaris Etiology and Pathogenesis",
+            "Acne Vulgaris Cutaneous Lesions Locations",
+            "Acne Vulgaris Cutaneous Lesions Types",
+            "Acne Vulgaris Scarring",
+            "Acne Vulgaris Associated Conditions",
+            "Acne Vulgaris Laboratory Tests",
+            "Acne Vulgaris Differential Diagnosis",
+            "Acne Vulgaris Complications",
+            "Acne Vulgaris Prognosis and Clinical Course",
+            "Acne Vulgaris Treatment"
+          ]
+        },
+        [
+          {
+            "header": "Terminology",
+            "points": [
+              "[TYPE:Condition]Acne vulgaris[/TYPE]: A self-limited disorder of the pilosebaceous unit, primarily affecting adolescents, characterized by comedones, papules, pustules, and nodules.",
+              "[TYPE:Anatomy]Pilosebaceous unit[/TYPE]: The anatomical structure consisting of a hair follicle and its associated sebaceous gland and arrector pili muscle.",
+              "[TYPE:Lesion]Comedone[/TYPE]: A noninflammatory lesion of acne, either open (blackhead) or closed (whitehead), caused by a plug of keratin and sebum in the follicular ostium.",
+              "[TYPE:Lesion]Papule[/TYPE]: A small, raised, inflammatory lesion of acne, typically red and tender.",
+              "[TYPE:Lesion]Pustule[/TYPE]: A small, raised, inflammatory lesion of acne containing pus, often with a red border.",
+              "[TYPE:Lesion]Nodule[/TYPE]: A large, tender, inflammatory lesion of acne, extending into the deeper layers of the skin.",
+              "[TYPE:Process]Hyperkeratosis[/TYPE]: Excessive thickening of the outer layer of the skin (stratum corneum), contributing to follicular plugging in acne.",
+              "[TYPE:Substance]Sebum[/TYPE]: An oily, waxy substance produced by sebaceous glands, which can accumulate in hair follicles.",
+              "[TYPE:Microorganism]Propionibacterium acnes[/TYPE]: A bacterium commonly found on the skin that plays a role in the pathogenesis of acne through inflammation.",
+              "[TYPE:Hormone]Dihydrotestosterone (DHT)[/TYPE]: A potent androgen hormone that may contribute to acne development by stimulating sebum production.",
+              "[TYPE:Scar]Ice pick scar[/TYPE]: A type of acne scar characterized by narrow, deep, and tapering V-shaped openings.",
+              "[TYPE:Scar]Rolling scar[/TYPE]: A type of acne scar with shallow, wide, and undulating depressions, giving the skin an uneven appearance.",
+              "[TYPE:Scar]Boxcar scar[/TYPE]: A type of acne scar with wide, sharply demarcated vertical walls, often round or oval.",
+              "[TYPE:Scar]Hypertrophic scar[/TYPE]: An elevated, raised scar that forms as a result of excessive collagen production during wound healing, less common in acne.",
+              "[TYPE:Condition]Hyperandrogenism[/TYPE]: A condition characterized by excessive levels of androgens, which can be associated with acne and other symptoms like hirsutism.",
+              "[TYPE:Condition]Rosacea[/TYPE]: A chronic inflammatory skin condition primarily affecting the central face, characterized by erythema, flushing, papules, pustules, and telangiectases.",
+              "[TYPE:Lesion]Telangiectasia[/TYPE]: Dilated small blood vessels visible on the skin surface, often a feature of rosacea.",
+              "[TYPE:Subtype]Erythematotelangiectatic Rosacea (ETR)[/TYPE]: A subtype of rosacea characterized by persistent facial erythema, flushing, and telangiectases.",
+              "[TYPE:Subtype]Papulopustular Rosacea[/TYPE]: A subtype of rosacea presenting with persistent central facial erythema accompanied by papules and pustules.",
+              "[TYPE:Subtype]Phymatous Rosacea[/TYPE]: A subtype of rosacea characterized by thickened skin, irregular contours, and nodularities, most commonly affecting the nose (rhinophyma)."
+            ]
+          }
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "school-project",
+  "version": "1.0.0",
+  "description": "HTML project with Sass",
+  "main": "index.html",
+  "scripts": {
+    "sass": "sass scss/style.scss css/style.css --watch",
+    "build": "sass scss/style.scss css/style.css --style=compressed"
+  },
+  "keywords": ["html", "sass", "css"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
+}

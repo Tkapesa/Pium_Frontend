@@ -1,0 +1,27 @@
+{
+  "header": {
+    "title": "Key Concepts",
+    "covered": 1,
+    "total": 12
+  },
+  "concepts": [
+    "Generalized Hyperpigmentation",
+    "Localized Pigmentation",
+    "Types of Hyperpigmentation",
+    "Generalized Hyperpigmentation",
+    "Localized Pigmentation",
+    "Types of Hyperpigmentation",
+    "Generalized Hyperpigmentation",
+    "Localized Pigmentation",
+    "Types of Hyperpigmentation",
+    "Generalized Hyperpigmentation"
+  ],
+  "quiz": {
+    "title": "Take Quiz",
+    "testedDate": "Friday 2/5/2025",
+    "score": {
+      "obtained": 7,
+      "total": 30
+    }
+  }
+}
