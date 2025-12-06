@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Quiz Review – Replica</title>
+
+<style>
+* {
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Helvetica, Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    background: #F3F6FC;
+}
+
+/* APP WRAPPER */
+.app {
+    display: flex;
+    height: 100vh;
+}
+
+/* SIDEBAR */
+.sidebar {
+    width: 90px;
+    background: #fff;
+    border-right: 1px solid #E6EAF0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 22px 0;
+}
+
+.logo {
+    font-weight: 700;
+    font-size: 22px;
+    color: #2C78F6;
+    margin-bottom: 42px;
+}
+
+.nav-item {
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    color: #8C96A6;
+    padding: 18px 0;
+}
+
+.nav-item.active {
+    color: #2C78F6;
+    font-weight: 600;
+}
+
+.nav-item.bottom {
+    margin-top: auto;
+    margin-bottom: 16px;
+}
+
+/* MAIN AREA */
+.main {
+    flex: 1;
+    padding: 28px;
+    display: flex;
+    gap: 26px;
+}
+
+/* QUESTION CARD */
+.card {
+    background: #fff;
+    border-radius: 14px;
+    flex: 1;
+    padding: 30px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 18px;
+}
+
+.card-header h2 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.card-header span {
+    font-size: 14px;
+    font-style: italic;
+    color: #7C8B86;
+    margin-left: 8px;
+    font-weight: 400;
+}
+
+.original-btn {
+    border: 1px solid #9DB8AF;
+    padding: 8px 14px;
+    border-radius: 22px;
+    font-size: 14px;
+    color: #2F6F6A;
+    background: #fff;
+}
+
+.question {
+    font-size: 16px;
+    color: #2A2A2A;
+    line-height: 1.6;
+    margin-bottom: 22px;
+}
+
+/* OPTIONS */
+.option {
+    display: flex;
+    gap: 14px;
+    padding: 16px 18px;
+    border-radius: 10px;
+    border: 1px solid #E1E3E8;
+    margin-bottom: 14px;
+    background: #fff;
+}
+
+.option-letter {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    border: 1px solid #9AA3AE;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    font-weight: 600;
+    color: #2F2F2F;
+    flex-shrink: 0;
+}
+
+.option-text {
+    font-size: 15px;
+    color: #2D2D2D;
+    line-height: 1.55;
+}
+
+/* REVIEW STATES */
+.option.wrong {
+    background: #F5CFCC;
+    border-color: #E4A5A0;
+}
+
+.option.wrong .option-letter {
+    background: #C8382B;
+    color: #fff;
+    border-color: #C8382B;
+}
+
+.option.correct {
+    background: #D4E5D7;
+    border-color: #A9C7AF;
+}
+
+.option.correct .option-letter {
+    background: #215C2C;
+    color: #fff;
+    border-color: #215C2C;
+}
+
+/* FOOTER */
+.review-footer {
+    margin-top: 26px;
+    color: #7C7C7C;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.arrows {
+    display: flex;
+    gap: 10px;
+}
+
+.arrow {
+    width: 34px;
+    height: 34px;
+    border-radius: 6px;
+    border: 1px solid #2C78F6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #2C78F6;
+    font-size: 18px;
+}
+
+/* RIGHT PANEL */
+.panel {
+    width: 300px;
+    background: #fff;
+    border-radius: 14px;
+    padding: 22px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+}
+
+.panel h3 {
+    font-size: 16px;
+    margin: 0 0 12px;
+}
+
+.tag {
+    display: inline-block;
+    padding: 8px 12px;
+    background: #EEF2F5;
+    border-radius: 6px;
+    font-size: 13px;
+    margin: 4px 6px 4px 0;
+}
+
+/* QUESTION NUMBERS */
+.question-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    margin-top: 14px;
+}
+
+.q {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: #D1D5DB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.q.correct { background: #B9D3B8; }
+.q.wrong { background: #E9B5B0; }
+.q.active { background: #2C78F6; color: #fff; }
+
+.finish {
+    margin-top: 20px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 22px;
+    border: 1px solid #5B8ED6;
+    background: #fff;
+    color: #2C78F6;
+    font-weight: 600;
+}
+</style>
+</head>
+
+<body>
+
+<div class="app">
+
+    <!-- SIDEBAR -->
+    <div class="sidebar">
+        <div class="logo">pium</div>
+        <div class="nav-item">Summaries</div>
+        <div class="nav-item active">Quizzes</div>
+        <div class="nav-item">Question<br>banks</div>
+        <div class="nav-item bottom">Logout</div>
+    </div>
+
+    <!-- MAIN -->
+    <div class="main">
+
+        <!-- QUESTION -->
+        <div class="card">
+            <div class="card-header">
+                <h2>Question 4 <span>Past paper question</span></h2>
+                <div class="original-btn">🔍 See original question</div>
+            </div>
+
+            <div class="question">
+                During the cardiac cycle, coordinated contraction and relaxation of various heart chambers ensure efficient blood flow.
+                Which of the following statements best describes the events that occur during ventricular systole?
+            </div>
+
+            <div class="option">
+                <div class="option-letter">A</div>
+                <div class="option-text">
+                    The atria contract, pushing blood into the ventricles, and the semilunar valves remain closed.
+                </div>
+            </div>
+
+            <div class="option wrong">
+                <div class="option-letter">B</div>
+                <div class="option-text">
+                    The ventricles contract, causing the atrioventricular valves to close and the semilunar valves to open, allowing blood to be ejected into the aorta and pulmonary artery.
+                </div>
+            </div>
+
+            <div class="option correct">
+                <div class="option-letter">C</div>
+                <div class="option-text">
+                    The ventricles relax, the semilunar valves close to prevent backflow, and blood passively fills the atria.
+                </div>
+            </div>
+
+            <div class="option">
+                <div class="option-letter">D</div>
+                <div class="option-text">
+                    Both the atria and ventricles contract simultaneously, resulting in the complete emptying of the heart chambers.
+                </div>
+            </div>
+
+            <div class="review-footer">
+                <span>Quiz Review</span>
+                <div class="arrows">
+                    <div class="arrow">‹</div>
+                    <div class="arrow">›</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SIDE PANEL -->
+        <div class="panel">
+            <h3>Topics in this quiz</h3>
+            <div class="tag">Pigmentation Disorders</div>
+            <div class="tag">Heart Anatomy and Physiology</div>
+            <div class="tag">Brain Tumors</div>
+            <div class="tag">Arboviruses</div>
+
+            <h3 style="margin-top:20px;">All questions</h3>
+            <div class="question-grid">
+                <div class="q correct">1</div>
+                <div class="q wrong">2</div>
+                <div class="q correct">3</div>
+                <div class="q active">4</div>
+                <div class="q">5</div>
+                <div class="q">6</div>
+                <div class="q">7</div>
+                <div class="q">8</div>
+                <div class="q">9</div>
+                <div class="q">10</div>
+                <div class="q">11</div>
+                <div class="q">12</div>
+                <div class="q">13</div>
+                <div class="q">14</div>
+                <div class="q">15</div>
+            </div>
+
+            <button class="finish">Finish Review</button>
+        </div>
+
+    </div>
+</div>
+
+<script>
+// Navigation arrows (prev/next questions)
+document.querySelectorAll('.arrow').forEach(btn => {
+  btn.addEventListener('click', function() {
+    alert('Navigate to previous/next question');
+  });
+});
+
+// Question number navigation
+document.querySelectorAll('.q').forEach(box => {
+  box.addEventListener('click', function() {
+    alert('Navigate to question ' + this.textContent);
+  });
+});
+
+// Finish Review button - go back to quiz taking page
+document.querySelector('.finish').addEventListener('click', function() {
+  if (confirm('Finish reviewing? Go back to quiz?')) {
+    window.location.href = 'quiz-ad.html';
+  }
+});
+
+// Sidebar navigation
+document.querySelectorAll('.nav-item').forEach(item => {
+  item.addEventListener('click', function() {
+    if (this.textContent.includes('Logout')) {
+      if (confirm('Are you sure you want to logout?')) {
+        window.location.href = '../index.html';
+      }
+    } else {
+      window.location.href = '../index.html';
+    }
+  });
+});
+
+// See original question button
+document.querySelector('.original-btn').addEventListener('click', function() {
+  alert('This will show the original source of the question.');
+});
+</script>
+
+</body>
+</html>

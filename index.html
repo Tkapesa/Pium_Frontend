@@ -9,6 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/rightbar.css" />
     <link rel="stylesheet" href="css/header.css" />
+  <link rel="stylesheet" href="css/modal.css" />
   </head>
   <body>
     <!-- Header html start -->
@@ -357,7 +358,70 @@
                  <span> Create New Folder</span>
                 </a></span
               >
+                    <!-- New Quiz Modal -->
+                    <div id="newQuizModal" class="modal" aria-hidden="true" role="dialog" aria-modal="true">
+                      <div class="modal-overlay" data-close-modal></div>
+                      <div class="modal-content" role="document">
+                        <button class="modal-close" title="Close" aria-label="Close" data-close-modal>&times;</button>
+                        <h2 class="modal-title">Create New Quiz</h2>
+
+                        <div class="form-group">
+                          <label>Topics included</label>
+                          <div class="chips">
+                            <span class="chip">Pigmentation Disorders <button class="chip-remove" aria-label="Remove">×</button></span>
+                          </div>
+                        </div>
+
+                    <div class="form-row">
+                          <div class="form-group">
+                          <label for="questionbank">Select Questionbank</label>
+                          <select id="questionbank">
+                            <option value="" disabled selected></option>
+                            </select>
+                          </div>
+                          <div class="form-group">
+                          <label for="phase">Phase/Year</label>
+                          <select id="phase">
+                            <option value="" disabled selected></option>
+                            </select>
+                          </div>
+                        </div>
+
+                    <div class="form-row">
+                          <div class="form-group">
+                          <label for="source">Source of questions</label>
+                          <select id="source">
+                            <option value="" disabled selected></option>
+                            </select>
+                          </div>
+                          <div class="form-group">
+                      <label for="count">Number of questions</label>
+                      <input id="count" type="number" min="1" />
+                          </div>
+                        </div>
+
+                        <div class="form-group">
+                          <label for="moreTopics">Add more topics</label>
+                          <select id="moreTopics">
+                            <option value="" disabled selected></option>
+                          </select>
+                        </div>
+
+                        <div class="modal-actions">
+                          <button class="btn btn-secondary" data-close-modal>Cancel</button>
+                          <!-- TODO: Wire API call here to create a quiz.
+                               Endpoint: POST /api/quizzes
+                               Payload example: { topicIds: [...], questionbankId, phase, source, count }
+                               Success: close modal and show confirmation/toast.
+                               Error: show inline error message. -->
+                          <button id="createQuizBtn" class="btn btn-primary">Create</button>
+                        </div>
+                      </div>
+                    </div>
+
             </div>
+                <script src="js/mockApi.js"></script>
+                <script src="js/modal.js"></script>
             </div>
           </div>
         </div>
@@ -407,6 +471,22 @@
           </article>
         </section>
       </main>
+
+      <!-- Quiz Screen Overlay (shown after Create) -->
+      <div id="quizScreen" class="quiz-screen" aria-hidden="true" style="display:none;">
+        <div class="quiz-screen-content">
+          <!-- Placeholder header; replace with real quiz UI when wired -->
+          <div class="quiz-header">
+            <img src="assets/images/logo.png" alt="pium" class="quiz-logo" />
+            <h2>Quiz Ready</h2>
+          </div>
+          <p>Your quiz has been created. Launching the quiz view...</p>
+          <div class="quiz-actions">
+            <button id="openQuizView" class="btn btn-primary">Open Quiz</button>
+            <button id="closeQuizScreen" class="btn btn-secondary">Close</button>
+          </div>
+        </div>
+      </div>
 
       <!-- Right Side Box -->
       <aside class="rightbar-wrapper">
@@ -539,7 +619,7 @@
             <span>You scored</span>
             <strong>7/30</strong>
             <p>Review quiz</p>
-            <button>New Quiz</button>
+            <button id="newQuizButton">New Quiz</button>
           </div>
         </div>
 

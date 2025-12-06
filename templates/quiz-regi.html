@@ -1,0 +1,201 @@
+<!-- Template: Quiz Registration (Create New Quiz modal) -->
+<!-- Standalone styles for Create New Quiz modal -->
+<style>
+  /* Overlay + modal shell */
+  .modal { position: fixed; inset: 0; z-index: 1000; display: block; }
+  .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.35); backdrop-filter: blur(2px); }
+  .modal-content { position: relative; background: #fff; border-radius: 12px; width: 680px; max-width: 92vw; margin: 60px auto; padding: 24px 28px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
+  .modal-title { font-size: 28px; font-weight: 700; margin: 0 0 16px; }
+  .modal-close { position: absolute; right: 16px; top: 16px; background: transparent; border: none; font-size: 22px; cursor: pointer; }
+
+  /* Chips */
+  .chips { display: flex; justify-content: flex-start; gap: 8px; margin-bottom: 16px; }
+  .chip { display: flex; align-items: center; gap: 10px; background: #E9EEF3; color: #2A2A2A; border-radius: 8px; padding: 10px 12px; width: 295px; height: 39px; }
+  .chip-text { font-size: 14px; }
+  .chip-remove { background: transparent; border: none; font-size: 16px; cursor: pointer; }
+
+  /* Form layout */
+  .form-row { display: flex; gap: 24px; margin-bottom: 14px; }
+  .form-group { display: flex; flex-direction: column; flex: 1; }
+  label { font-size: 14px; color: #2A2A2A; margin-bottom: 6px; }
+
+  /* Inputs */
+  select, input[type="number"], input[type="text"] { height: 36.93px; border: 1px solid #A0D1FF; border-radius: 8px; padding: 6px 10px; font-size: 14px; outline: none; background: #fff; }
+  select:focus, input[type="number"]:focus, input[type="text"]:focus { box-shadow: 0 0 0 3px rgba(160,209,255,0.25); }
+  /* Specific widths per design */
+  #questionbank, #source { width: 335.88px; }
+  #phase, #count { width: 158.16px; }
+  #moreTopics { width: 512.05px; }
+
+  /* Actions */
+  .modal-actions { display: flex; justify-content: center; gap: 16px; margin-top: 20px; }
+  .btn { border-radius: 8px; padding: 10px 18px; font-size: 14px; font-weight: 400; cursor: pointer; }
+  .btn-primary { background: #0F649E; color: #fff; border: none; }
+  .btn-secondary { background: #fff; color: #2A2A2A; border: 1px solid #A0D1FF; }
+
+  /* Page background to match dimmed look */
+  body { background: #f7f8fb; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #2A2A2A; }
+</style>
+<div id="newQuizModal" class="modal" aria-hidden="true">
+  <div class="modal-overlay" data-close-modal></div>
+  <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="newQuizTitle">
+    <button class="modal-close" data-close-modal aria-label="Close">×</button>
+
+    <h2 id="newQuizTitle" class="modal-title">Create New Quiz</h2>
+
+    <div class="chips">
+      <div class="chip">
+        <span class="chip-text">Pigmentation Disorders</span>
+        <button class="chip-remove" aria-label="Remove">×</button>
+      </div>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group">
+        <label for="questionbank">Select Questionbank</label>
+        <select id="questionbank">
+          <option value="" disabled selected></option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="phase">Phase/Year</label>
+        <select id="phase">
+          <option value="" disabled selected></option>
+        </select>
+      </div>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group">
+        <label for="source">Source of questions</label>
+        <select id="source">
+          <option value="" disabled selected></option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="count">Number of questions</label>
+        <input id="count" type="number" inputmode="numeric" />
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="moreTopics">Add more topics</label>
+      <select id="moreTopics">
+        <option value="" disabled selected></option>
+      </select>
+    </div>
+
+    <div class="modal-actions">
+      <button class="btn btn-secondary" data-close-modal>Cancel</button>
+      <button id="createQuizBtn" class="btn btn-primary">Create</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ==================== API ENDPOINTS ====================
+// TODO: Replace with actual backend API calls
+
+// ENDPOINT: GET /api/topics - Fetch available topics for quiz
+// Response: [{ id: 1, name: "Pigmentation Disorders" }, ...]
+async function fetchTopics() {
+  // const response = await fetch('/api/topics');
+  // const topics = await response.json();
+  // return topics;
+  return []; // Placeholder
+}
+
+// ENDPOINT: GET /api/questionbanks - Fetch available question banks
+// Response: [{ id: 1, name: "USMLE Step 1" }, ...]
+async function fetchQuestionBanks() {
+  // const response = await fetch('/api/questionbanks');
+  // const data = await response.json();
+  // return data;
+  return []; // Placeholder
+}
+
+// ENDPOINT: GET /api/phases - Fetch phases/years
+// Response: [{ id: 1, name: "Phase 1" }, ...]
+async function fetchPhases() {
+  // const response = await fetch('/api/phases');
+  // const data = await response.json();
+  // return data;
+  return []; // Placeholder
+}
+
+// ENDPOINT: GET /api/sources - Fetch question sources
+// Response: [{ id: 1, name: "Past Papers" }, ...]
+async function fetchSources() {
+  // const response = await fetch('/api/sources');
+  // const data = await response.json();
+  // return data;
+  return []; // Placeholder
+}
+
+// ENDPOINT: POST /api/quiz/create - Create new quiz
+// Body: { topicIds: [], questionBankId, phaseId, sourceId, questionCount }
+// Response: { quizId: "abc123", message: "Quiz created successfully" }
+async function createQuiz(quizData) {
+  // const response = await fetch('/api/quiz/create', {
+  //   method: 'POST',
+  //   headers: { 'Content-Type': 'application/json' },
+  //   body: JSON.stringify(quizData)
+  // });
+  // const result = await response.json();
+  // return result;
+  return { quizId: 'mock-quiz-123' }; // Placeholder
+}
+
+// ==================== EVENT HANDLERS ====================
+
+// Navigate to quiz-ad.html when Create button is clicked
+document.getElementById('createQuizBtn').addEventListener('click', async function() {
+  // Collect form data
+  const selectedTopics = []; // Get from chips
+  const questionBankId = document.getElementById('questionbank').value;
+  const phaseId = document.getElementById('phase').value;
+  const sourceId = document.getElementById('source').value;
+  const questionCount = document.getElementById('count').value;
+
+  // TODO: Validate inputs
+  if (!questionBankId || !phaseId || !sourceId || !questionCount) {
+    alert('Please fill in all required fields');
+    return;
+  }
+
+  // TODO: Call API to create quiz
+  try {
+    const quizData = {
+      topicIds: selectedTopics,
+      questionBankId,
+      phaseId,
+      sourceId,
+      questionCount: parseInt(questionCount)
+    };
+    
+    const result = await createQuiz(quizData);
+    
+    // Navigate to quiz taking page with quiz ID
+    window.location.href = `quiz-ad.html?quizId=${result.quizId}`;
+  } catch (error) {
+    console.error('Error creating quiz:', error);
+    alert('Failed to create quiz. Please try again.');
+  }
+});
+
+// Close modal handlers
+document.querySelectorAll('[data-close-modal]').forEach(btn => {
+  btn.addEventListener('click', function() {
+    window.history.back();
+  });
+});
+
+// TODO: On page load, fetch and populate dropdowns
+// window.addEventListener('DOMContentLoaded', async () => {
+//   const topics = await fetchTopics();
+//   const questionBanks = await fetchQuestionBanks();
+//   const phases = await fetchPhases();
+//   const sources = await fetchSources();
+//   // Populate dropdown options
+// });
+</script>
