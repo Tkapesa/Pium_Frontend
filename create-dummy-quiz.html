@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Create Dummy Quiz</title>
+</head>
+<body>
+  <h1>Creating dummy quiz...</h1>
+  <p id="status">Loading mock API...</p>
+  
+  <script src="js/mockApi.js"></script>
+  <script>
+    (async function(){
+      const status = document.getElementById('status');
+      if (!window.MockApi) {
+        status.textContent = 'Error: MockApi not loaded!';
+        return;
+      }
+      
+      status.textContent = 'Creating dummy quiz...';
+      
+      const payload = {
+        title: 'Sample Medical Quiz',
+        topic: 'Heart Anatomy and Physiology',
+        difficulty: 'Medium',
+        count: 15
+      };
+      
+      try {
+        const { id, quiz } = await window.MockApi.createQuiz(payload);
+        status.innerHTML = `
+          <strong>✓ Dummy quiz created!</strong><br>
+          Quiz ID: ${id}<br>
+          Title: ${quiz.title}<br>
+          Questions: ${quiz.questions.length}<br><br>
+          <a href="templates/quiz-sub.html?id=${encodeURIComponent(id)}" style="padding:10px 20px;background:#0F649E;color:white;text-decoration:none;border-radius:8px;display:inline-block;">Take Quiz</a><br><br>
+          <a href="templates/quiz-ad.html" style="padding:10px 20px;background:#6FA58A;color:white;text-decoration:none;border-radius:8px;display:inline-block;margin-top:10px;">Admin View</a>
+        `;
+      } catch (err) {
+        status.textContent = 'Error creating quiz: ' + err.message;
+      }
+    })();
+  </script>
+</body>
+</html>
